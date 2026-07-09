@@ -1,0 +1,118 @@
+0Hold DOWN and SPECIAL together to create a path to a chosen destination|Утримуйте клавіші ВНИЗ та СПЕЦІАЛЬНА разом, щоб створити шлях до обраного призначення
+Holding UP and SPECIAL without a karma flower is unstable and dangerous|Утримання клавіш ВГОРУ та СПЕЦІАЛЬНА без кармоцвіту нестабільне й небезпечне
+creaturetype-MothGrub|Личинка Шовкопряда
+Unfortunate Evolution|Невдала Еволюція
+creaturetype-Barnacle|Барнакль
+creaturetype-SandGrub|Піщана Личинка
+creaturetype-SkyWhale|Небесний Кит
+creaturetype-RotLoach|Погнилий Велетень
+creaturetype-RippleSpider|Павук Брижів
+Press VIEW to cancel warp|Натисніть ОГЛЯД, щоб скасувати переміщення
+creaturetype-IndigoLizard|Індиговий Ящір
+creaturetype-GrappleSnake|Хапальний Змій
+creaturetype-PeachLizard|Персиковий Ящір
+The Crown upon the thorn|Корона на шипі
+creaturetype-BigSandGrub|Піщаний Хробак
+objecttype-Pomegranate|Гранат
+creaturetype-DrillCrab|Свердловик
+creaturetype-SmallMoth|Малий Шовкопряд
+creaturetype-Millipede|Многоніжка
+objecttype-GraffitiBomb|Фарбувальна Бомба
+The Lantern in the dusk|Ліхтарик у сутінках
+creaturetype-FireSprite|Вогняний Дух
+creaturetype-Tardigrade|Тихохід
+Press PAUSE BUTTON to cancel warp|Натисніть клавішу ПАУЗА, щоб скасувати переміщення
+The paths overflow beyond measure|Шляхи переповнені поза межами можливого
+Oh such enthusiasm! I am honored!|О, який ентузіазм! Для мене честь!
+Press + Button to cancel warp|Натисніть клавішу +, щоб скасувати переміщення
+Press - Button to cancel warp|Натисніть клавішу -, щоб скасувати переміщення
+watcher-character-description|Чужинець, поодинокий та відсторонений. Споглядач, але не співучасник.<LINE>З такої віддаленості відкриваються нові перспективи, як і нові зв'язки. Подорож, якій немає рівних.
+creaturetype-ScavengerTemplar|Сміттяр-Тамплієр
+Press OPTIONS BUTTON to cancel warp|Натисніть клавішу ОПЦІЇ, щоб скасувати переміщення
+A presence already binds this place|Це місце вже зайняте іншою присутністю
+This fringe is already too unstable|Цей край вже надто нестабільний
+Nothing to waste, every bit counts!|Нічого не марнуємо, кожна дрібниця має значення!
+SPECIAL button - Hold to warp to selected region|СПЕЦІАЛЬНА клавіша — утримуйте, щоб переміститися до обраного регіону
+Free them. They will show you the way.|Звільни їх. Вони покажуть тобі шлях.
+The Child forsaken to time|Дитина, покинута в часі
+objecttype-FireSpriteLarva|Личинка Вогняного Духа
+THE WATCHER|СПОСТЕРІГАЧ
+The Watcher|Спостерігач
+Coral Caves|Коралові Печери
+The Surface|Поверхня
+Hydroponics|Гідропоніка
+Watcher|Спостерігач
+Outer Rim|Зовнішня Межа
+Deep Reef|Глибокий Риф
+Rusted Wrecks|Іржаві Рештки
+Torrid Desert|Жагуча Пустеля
+Thermal Relay|Тепловий Вузол
+Station Annex|Пристанційний Корпус
+Signal Spires|Сигнальні Шпилі
+Ancient Urban|Стародавній Квартал
+Stormy Coast|Бурхливий Берег
+Cold Storage|Холодне Сховище
+Tundra Fault|Тундровий Розлом
+Aether Ridge|Ефірний Кряж
+Pillar Grove|Гай Стовпів
+Turbulent Pump|Вируючі Насоси
+Desolate Tract|Спустошене Урочище
+Aerial Tramway|Повітряна Канатка
+Fallen Tramway|Занепала Канатка
+Sunbaked Alley|Випалена Алея
+Migration Path|Міграційний Шлях
+Blast Deck|Хуртовинний Ярус
+Ridgeworks|Кряжові Майстерні
+Salination|Соляні Канали
+Heat Ducts|Теплопроводи
+Fetid Glen|Затхла Долина
+The Throne|Трон
+Marvelous!|Чудово!
+Shattered Terrace|Розтрощена Тераса
+Verdant Waterways|Позеленілі Протоки
+Crumbling Fringes|Крихкі Передмістя
+creaturetype-Frog|Жаба
+LeaveSpinningTop1|ОА! Диви! Воно надто дурне, аби навіть увагу звернути! ОА-ОА-ОА-ОА!!
+LeaveSpinningTop2|ОА!! Як грубо! А я хотіла дати йому подарунка.
+DieAtSpinningTop1|ОА-ОА-ОА!! Так!!! Ось і ти потрапив назад до ґрунту!! Ну й бовдур!! ОА-ОА-ОА-ОА-ОА-О
+DieAtSpinningTop2|ОА!! Поглянь!! Тебе вже схопили!! ОА-ОА-ОА-ОА-ОА-О
+DieAtSpinningTop3|ОА-ОА-ОА-ОА-ОА!! Що ж, схоже, і тут теж?? Надто дурний, аби жити, надто ниций, аби вмерти. Як нудно! Фе! Я рушаю.
+So vital! Hah ha!|Такий живий! Ха ха!
+Badlands|Пустище
+Decaying Tunnels|Занепалі Тунелі
+creaturetype-Rat|Щур
+Ah! So spirited!|А! Такий завзятий!
+Infested Wastes|Заражені Пустки
+Shrouded Stacks|Затуманені Стоси
+Corrupted Factories|Спотворені Фабрики
+Torrential Railways|Потоплені Залізниці
+creaturetype-Angler|Вудильник
+Daemon|Деймон
+Fractured Gateways|Понівечені Проходи
+creaturetype-Loach|В'юн
+Oh, show me again!|О, покажи-но ще!
+creaturetype-BigMoth|Великий Шовкопряд
+creaturetype-BoxWorm|Коробковий Черв
+creaturetype-Rattler|Кісткотряс
+objecttype-Boomerang|Бумеранг
+creaturetype-ScavengerDisciple|Сміттяр-Послідовник
+Oh, you have brought sundries?|О, ти приніс дрібнички?
+Never again will you be alone.|Ти більше ніколи не будеш на самоті.
+Oh, my friend, you have grown!|О, мій друже, ти виріс!
+creaturetype-BlizzardLizard|Хуртовинний Ящір
+creaturetype-BasiliskLizard|Василісковий Ящір
+Hold the SPECIAL button to camouflage from predators|Утримуйте клавішу СПЕЦІАЛЬНА, щоб замаскуватися від хижаків
+Hold UP and SPECIAL together to form new random paths|Утримуйте клавіші ВГОРУ та СПЕЦІАЛЬНА разом, щоб створювати нові випадкові шляхи
+Delight! For you will be exalted in this new kingdom!|Яка радість! Бо ти будеш звеличений у цьому новому царстві!
+This will consume the effect of a karma flower in the process|Під час цього буде витрачено ефект кармоцвіту
+However, this can also form new random paths in a pinch|Однак так можна створити нові шляхи у скрутному становищі
+You can leave them here if you wish, as a contribution.|Якщо хочеш, можеш залишити їх тут, як внесок.
+Crossing to new frontiers takes a toll on the body, but sleep can help you recover|Подорожі до нових земель завдають шкоди тілу, але відпочинок допоможе оговтатися
+Traveling too deep without resting will have consequences|Надто далекі подорожі без відпочинку матимуть наслідки
+This remains a place of rest|Це залишається місцем відпочинку
+It is a joy to see you play!|Яка радість бачити, як ти граєш!
+My processes will dissolve them to their base components and those components will be added to the mass.|Мої процеси розкладуть їх на їхні базові складові, які потім будуть приєднані до маси.
+Ahh yes! The paths! How wonderous!|А, так! Шляхи! Як дивовижно!
+How auspicious it was, our meeting...|Якою ж сприятливою була наша зустріч...
+Forgive me if I cannot respond in kind. This body is so limited...|Вибач мені, якщо я не можу відповісти тобі так само. Моє тіло таке обмежене...
+How I have wished for this day. My dear friend, welcome.|Я так прагнув цього дня. Мій дорогий друже, вітаю.

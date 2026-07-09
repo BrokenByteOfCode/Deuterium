@@ -1,0 +1,10 @@
+0About|Про мод
+Code of Mod|Код моду
+Localization|Локалізація
+Languages added by this mod:|Мови, додані цією модифікацією
+UKRAINIAN|УКРАЇНСЬКА
+BELARUSIAN|БІЛОРУСЬКА
+Ukrainian|Українська
+Belarusian|Беларуская
+Press me|Натисни мене
+Press at your own risk.|Натискайте на власний ризик.

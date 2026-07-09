@@ -1,0 +1,340 @@
+0Moth Grubs|Личинок Шовкопрядів
+Sand Grubs|Піщаних Личинок
+Sand Worms|Піщаних Хробаків
+Sky Whales|Небесних Китів
+Millipedes|Многоніжок
+EXPEDITION|ЕКСПЕДИЦІЯ
+MILESTONES|ВІХИ
+Salamander|Саламандр
+Scavengers|Сміттярів
+Centiwings|Багатокрилок
+Tube Worms|Хапальних черв'яків
+Leviathans|Левіафанів
+Inspectors|Інспекторів
+Back Spear|Спинний Спис
+Joke Rifle|Жартівка
+AVAILABLE:|ДОСТУПНИХ:
+Puff Balls|Споровиків
+CHALLENGES|ВИПРОБУВАННЯ
+BEST TIME:|НАЙЛІПШИЙ ЧАС:
+Ripple Spiders|Павуків Брижів
+Indigo Lizards|Індигових ящерів
+Grapple Snakes|Хапальних Зміїв
+Yellow Lizards|Жовтих ящерів
+Red Centipedes|Червоних багатоніжок
+Miros Vultures|Лезокрильців
+Mother Spiders|Павучих
+Slugcat Select|Вибір Слимакота
+colored pearls|кольорових перлин
+Explosive Jump|Вибуховий Стрибок
+Scavenger Bomb|Бомба Сміттярів
+Electric Spear|Електричний Спис
+Neuron Gifting|Дарування нейронів
+Pearl Delivery|Доставка перлин
+Pearl Hoarding|Накопичення перлин
+Vista Visiting|Відвідування віст
+Scavenger Hunt|Полювання Сміттярів
+Challenge list|Лист випробувань
+Total: <total>|Загалом: <total>
+SLUGCAT SELECT|ВИБІР СЛИМАКОТА
+NEW BEST TIME:|НОВИЙ НАЙЛІПШИЙ ЧАС:
+Peach Lizards|Персикових ящерів
+Rot Behemoths|Погнилих Велетнів
+-PROGRESSION-|- ПРОГРЕСІЯ -
+-UNLOCKABLES-|- РОЗБЛОКОВУВАНЕ -
+Apex Predator|Вершинний Хижак
+Green Lizards|Зелених ящерів
+White Lizards|Білих ящерів
+Black Lizards|Чорних ящерів
+White Cicadas|Білих кальмарокад
+Black Cicadas|Чорних кальмарокад
+King Vultures|Королівських Стерв'ятників
+Large Spiders|Великих павуків
+Stowaway Bugs|Прихованців
+common pearls|звичайних перлин
+Item Crafting|Майстрування Предметів
+Vulture Masks|Масок Стерв'ятників
+Echo Sighting|Відлуння
+Overall Score|Підсумок
+Spear Pinning|Приколювання списами
+Guiding Light|Світло в темряві
+Normal: <num>|Звичайних: <num>
+Hidden: <num>|Схованих: <num>
+Rattlers|Кісткотрясів
+-CUSTOM-|- КОРИСТУВАЦЬКЕ -
+LEVEL UP|НОВИЙ РІВЕНЬ
+- PAGE -|- СТОРІНКА -
+DESELECT|ВІДМІНИТИ
+Slugcats|Слимакотів
+Vultures|Стерв'ятників
+Egg Bugs|Яйцежуків
+Dropwigs|Падовійок
+Batflies|Кажанів
+Firebugs|Вогнежуків
+DEATHS :|СМЕРТЕЙ :
+BURDENS:|ТЯГАРІВ:
+a neuron|нейрон
+MISSIONS|МІСІЇ
+CONTROLS|КЕРУВАННЯ
+Barnacles|Барнаклів
+Big Moths|Великих Шовкопрядів
+Box Worms|Коробкових Червів
+-FILTERS-|- ФІЛЬТРИ -
+Food Tour|Харчовий Тур
+MILESTONE|ВІХА
+Rain Deer|Дощових оленів
+Aquapedes|Водяних багатоніжок
+Slow Time|Сповільнення Часу
+Fly Lures|Кажанячої М'яти
+Jellyfish|Медуз
+Mushrooms|Грибів
+Missions:|Місій:  <missions> / 6
+Drill Crabs|Свердловиків
+Small Moths|Малих Шовкопрядів
+Tardigrades|Тихоходів
+Red Lizards|Червоних ящерів
+Pole Mimics|Жердинників
+Miros Birds|Лезоптиць
+Eel Lizards|Вугорових ящерів
+Progression|Прогресія
+Neuron Glow|Нейронне Сяйво
+Flare Bombs|Сяйбомб
+Cycle Score|Очки циклу
+UNLOCKABLES|РОЗБЛОКОВУВАНЕ
+EXPEDITIONS|ЕКСПЕДИЦІЇ
+Fire Sprites|Вогняних Духів
+-EXPEDITION-|- ЕКСПЕДИЦІЇ -
+-CHALLENGES-|- ВИПРОБУВАННЯ -
+-MILESTONES-|- ВІХИ -
+Now Playing:|Зараз відтворюється:
+FINAL SCORE:|ПІДСУМОК:
+Five Pebbles|П'ять Гальок
+Pink Lizards|Рожевих ящерів
+Blue Lizards|Блакитних ящерів
+Cyan Lizards|Ціанових ящерів
+Monster Kelp|Хижих Водоростей
+Lantern Mice|Сяймиш
+LEVEL <next>|РІВЕНЬ <next>
+Vulture Mask|Маска Стерв'ятника
+Karma Flower|Кармоцвіт
+High Agility|Висока Швидкість
+Perk: <perk>|Перевага: <perk>
+Birdwatching|Птахогляд
+REQUIREMENTS|ВИМОГИ
+Scavenger Templars|Сміттярів-Тамплієрів
+Strawberry Lizards|Полуничних ящерів
+Reach Level: <num>|Досягнути рівня: <num>
+Firecracker Plants|Запальних Кущів
+Scavenger Lanterns|Ліхтарів
+Expedition-Players|Гравців: <num_p>
+UNLOCKING SLUGCATS|РОЗБЛОКУВАННЯ СЛИМАКОТІВ
+Scavenger Disciples|Сміттярів-Послідовників
+CHOOSE YOUR SLUGCAT|ОБРАТИ СЛИМАКОТА
+NEW<LINE>EXPEDITION|НОВА<LINE>ЕКСПЕДИЦІЯ
+Spear Dual-Wielding|Дворучне Озброєння
+Loaches|В'юнів
+Anglers|Вудильників
+BURDENS|ТЯГАРІ
+Jetfish|Стриб
+JUKEBOX|ПРОГРАВАЧ
+Jukebox|Програвач
+ABANDON|ПОЛИШИТИ
+CYCLE :|ЦИКЛ :
+KARMA :|КАРМА :
+POINTS:|ОЧОК:
+BLINDED|ОСЛІПЛЕННЯ
+PURSUED|ПОГОНЯ
+neurons|нейронів
+Passage|Досягнення
+Mission|Місія
+GENERAL|ЗАГАЛЬНЕ
+Quests:|Квестів:  <quests> / 75
+REWARDS|НАГОРОДИ
+DISMISS|ВІДХИЛИТИ
+Blizzard Lizards|Хуртовинних ящерів
+Basilisk Lizards|Василіскових ящерів
+MISSION SELECTED|ВИБРАНО МІСІЮ
+Small Centipedes|Малих багатоніжок
+Large Centipedes|Великих багатоніжок
+Terror Long Legs|Матерів-Довгоногів
+Elite Scavengers|Елітних сміттярів
+Challenge Select|Вибір Випробування
+Singularity Bomb|Бомба Сингулярності
+Points: <points>|Очок: <points>
+Burden: <burden>|Тягар: <burden>
+Creature Hunting|Полювання на істот
+CHALLENGE FILTER|ФІЛЬТР ВИПРОБУВАНЬ
+GAMEPLAY CHANGES|ЗМІНИ ІГРОЛАДУ
+CHALLENGE SELECT|ВИБІР ВИПРОБУВАНЬ
+Rats|Щурів
+NEW!|НОВЕ!
+Yeek|Їків
+EXIT|ВИХІД
+EASY|ЛЕГКО
+HARD|СКЛАДНО
+BACK|НАЗАД
+NEXT|ДАЛІ
+Frogs|Жаб
+KILLS|ВБИВСТВА
+CLOSE|ЗАКРИТИ
+LEVEL|РІВЕНЬ
+EMPTY|ПОРОЖНЬО
+PERKS|ПЕРЕВАГИ
+You are missing one or more of the mission's requirements|Вам бракує одного або декількох вимог місії
+Burdens are modifiers you can add to your Expedition to increase the difficulty. In return, a multiplier is applied to your final score, increasing the number of points it's possible to earn.|Тягарі — модифікатори, які можна начіпити на свою експедицію, щоб її ускладнити. Натомість на підсумок накладається множник, що збільшує кількість очок, які можна отримати.
+Challenges can be re-rolled for new ones by selecting them. The difficulty of the new challenge can be adjusted by dragging the difficulty slider, more difficult challenges award more points.|Випробування можна замінити новими, якщо їх обрати. Складність нових випробувань може бути налаштована перетягуванням повзунка складності, складніші випробування дають більше очок.
+Start the expedition with a charged Electric Spear. The spear is extremely useful for dealing high amounts of damage and stunning creatures. The spear can be recharged by impaling centipedes.|Почніть експедицію з зарядженим Електричним Списом. Спис вкрай корисний для нанесення великої кількості шкоди, і приголомшення істот. Списа можна перезарядити проколюванням багатоніжок.
+Gives The Artificer's explosive double-jump ability to other characters, activated by pressing JUMP and PICK UP whilst in the air. Very useful for traversal and escaping dangerous situations.|Надає здатність Техніка виконувати вибухові стрибки іншим персонажам, що активується натисканням СТРИБАТИ та ВЗЯТИ в повітрі водночас. Дуже корисно для пересування та втечі від небезпечних ситуацій.
+Custom|Користувацьке
+BONUS:|БОНУС:
+HIDDEN|СХОВАНО
+LOCKED|ЗАБЛОКОВАНО
+Track:|Трек:
+Snails|Равликів
+TIME :|ЧАС :
+DOOMED|ПРИРЕЧЕННЯ
+HUNTED|ПОЛЮВАННЯ
+MUSIC:|МУЗИКИ:
+QUESTS|КВЕСТИ
+CONFIGURE<LINE>PERKS & BURDENS|КОНФІГУРУВАТИ <LINE> ПЕРЕВАГИ Й ТЯГАРІ
+Visit the <echo_location> Echo|Відвідайте Відлуння регіону «<echo_location>»
+Total Hidden Challenges: <num>|Схованих випробувань загалом: <num>
+Total Wins as <slugcat>: <num>|Перемог за «<slugcat>»: <num>
+Total <type> Challenges: <num>|Випробувань на <type> загалом: <num>
+Points to Next Level: <points>|Очок до наступного рівня: <points>
+START NEW<LINE>EXPEDITION|ПОЧАТИ НОВУ<LINE>ЕКСПЕДИЦІЮ
+CHALLENGE DIFFICULTY|ЗМІНИТИ СКЛАДНІСТЬ
+Completed Challenges|Виконані випробування
+Explosion Resistance|Вибухостійкість
+Challenges Completed:|Виконаних випробувань:
+RETRY<LINE>EXPEDITION|СПРОБУВАТИ<LINE>ЗНОВУ
+- D E M O   M O D E -|- Р Е Ж И М   Д Е М О -
+CONTINUE<LINE>MISSION|ПРОДОВЖИТИ<LINE>МІСІЮ
+Perk Capacity: +<num>|Кількість переваг: +<num>
+COMMENCE<LINE>MISSION|РОЗПОЧАТИ<LINE>МІСІЮ
+Store <amount> <target_item> in the same shelter|Накопичте предмети (<target_item>, <amount> шт.) в одному притулку
+Successfully hibernate to finish this expedition|Успішно засніть, щоб завершити цю експедицію
+Looks To The Moon|Споглядачка Місяця
+Brother Long Legs|Братів-Довгоногів
+Large Noodleflies|Великих локшинниць
+Scavenger Lantern|Ліхтар Сміттярів
+Challenges: <num>|Випробувань: <num>
+Total Wins: <num>|Перемог загалом: <num>
+Music: <songName>|Музика: <songName>
+You feel the presence of a vista . . .|Ви відчуваєте присутність вісти . . .
+<region> pearl delivered to <iterator>|Перлину з регіону «<region>» доставлено ітераторові <iterator>
+Reach the vista point in <region_name>|Дістаньтеся точки вісти в регіоні «<region_name>»
+E X P E D I T I O N    C O M P L E T E|Е К С П Е Д И Ц І Ю    З А В Е Р Ш Е Н О
+<Unlocked> of <Max> Tracks Unlocked|<Unlocked> з <Max> треків розблоковано
+Reach these milestones across multiple Expeditions:|Здобудьте ці віхи протягом декількох Експедицій:
+Toggle which challenges can appear when randomising|Оберіть, які випробування траплятимуться випадково
+The Expedition will end upon entering the Depths...|Експедиція закінчиться при вході до Глибин...
+Complete an Expedition with the following requirements:|Завершіть Експедицію з наступними вимогами:
+Kill <target_creature> [<current_kills>/<target_kills>]|Вбийте <target_creature> [<current_kills>/<target_kills>]
+This quest has been completed|Цей квест було виконано
+<challenge> Challenges: <num>|<challenge> випробувань: <num>
+Total Points Earned: <points>|Підрахункових очок загалом: <points>
+Spitter Spiders|Плюйпавуків
+Daddy Long Legs|Батьків-Довгоногів
+Caramel Lizards|Карамельних ящерів
+Large Jellyfish|Великих медуз
+LEVEL <current>|РІВЕНЬ <current>
+POINTS: <score>|ОЧОК: <score>
+Enable Passages|Ввімкнення Переходів
+Slugcat: <slug>|Слимакіт: <slug>
+Scavenger Bombs|Бомб
+Item Collecting|Збирання предметів
+Nature's Friend|Друг Природи
+Hunter Gatherer|Мисливець-Збирач
+Change of Heart|Зміна Настроїв
+With no unique skills to boast about, The Survivor embarks on an<LINE>Expedition to test their resolve|Позбавлений якихось особливих навичок, Вцілілий вирушає в Експедицію<LINE>випробувати свою рішучість
+Attuned with nature and empathetic to its inhabitants, The Monk departs<LINE>to find their place in the world|У злагоді з таємницями світу та співчуттям до його мешканців, Чернець вирушає<LINE>на пошуки свого місця у світі
+Opens the challenge filter menu, allowing you to toggle which types of challenges can appear when re-rolling.|Відкриває меню фільтрів випробувань, дозволяючи вам обирати, які типи випробувань з'являтимуться при їх заміні.
+Dextrous and handy with a spear, The Hunter sets forth once again<LINE>into a world of danger|Спритний і вправний зі списами, Мисливець вкотре вирушає<LINE>у сповнений небезпек світ
+A brave explorer, hungry for their next adventure, or perhaps<LINE>their next meal|Хоробрий дослідник, спраглий до подальших пригод, або, можливо,<LINE>до наступної трапези
+An explosive fighter and combat expert, The Artificer journeys once<LINE>again into the unknown|Вибуховий боєць та експерт у сутичках, Технік знову мандрує в невідоме
+A spear expert forced to fight to survive, their Expedition is<LINE>sure to be one fraught with peril|Експерт із списів, що змушений боротися, аби вижити, тож його Експедиція<LINE>напевно буде сповнена небезпек
+Extremely agile and an adept swimmer, The Rivulet speeds<LINE>towards their goal out of necessity|Надзвичайно спритний та вправний плавець, Струмок мчиться<LINE>до своєї мети через необхідність
+Start the expedition with a Scavenger Bomb, a potential head start for combat related challenges.|Почніть експедицію з Бомбою Сміттярів — потенційною форою для бойових випробувань.
+A pacifist at heart, The Saint endures the bitter cold and searches<LINE>for their purpose|Пацифіст у душі, Святий зносить лютий холод, та шукає свого призначення
+Earn <score_target> points from creature kills this cycle [<current_score>/<score_target>]|Отримайте <score_target> оч. від вбивств істот на поточному циклі [<current_score>/<score_target>]
+Start the expedition with reinforced karma, a Karma Flower will spawn at the site of death|Починайте експедицію з захищеною кармою. В разі смерті на її місці зросте Кармоцвіт.
+CONTINUE<LINE>EXPEDITION|ПРОДОВЖИТИ<LINE>ЕКСПЕДИЦІЮ
+PERKS: <current>/<limit>|ПЕРЕВАГ: <current>/<limit>
+You are being pursued...|Вас переслідують...
+Hidden Challenges: <num>|Схованих випробувань: <num>
+Current Points: <points>|Поточних очок: <points>
+Enable a range of perks to aid you in your expedition|Вмикає низку переваг, які допоможуть у вашій експедиції
+Reach milestones and complete expeditions with certain restrictions to earn rewards|Здобувайте віхи та завершуйте експедиції з певними обмеженнями, щоб отримати нагороди.
+The required character has an on-going expedition, finish or abandon it to continue|У потрібного персонажа ще є недоконана експедиція, щоби продовжити, завершіть або полиште її
+Earn <achievement_name> passage|Отримайте перехід «<achievement_name>»
+Plays unlocked tracks at random|Випадково відтворює розблоковані треки
+Earn <score_target> points from creature kills [<current_score>/<score_target>]|Отримайте <score_target> оч. від вбивств істот [<current_score>/<score_target>]
+Neurons delivered to Looks to the Moon <progress>|Доставлено нейронів Споглядачці Місяця <progress>
+The Expedition will end upon taking the plunge...|Експедиція закінчиться при занурюванні вглиб...
+Store <amount> <target_pearl> in a shelter in <region_name>|Накопичте (<amount> шт.) <target_pearl> у притулку в регіоні «<region_name>»
+Pin <pin_amount> creatures to walls or floors [<current_pin>/<pin_amount>]|Приколіть істот до стін або підлоги [<current_pin>/<pin_amount>]
+The pursuer retreats...|Переслідувач відступив...
+Mission: <mission_name>|Місія: <mission_name>
+Total Points:  <points>|Очок загалом:  <points>
+EXPEDITION-INTRODUCTION|ВВЕДЕННЯ
+Total Challenges Completed: <num>|Виконаних випробувань: <num>
+<num> Quests Completed|Виконати завдань: <num>
+Current Level: <level>|Поточний рівень: <level>
+Recover all karma and fast travel to any discovered shelter, consumes an earned passage|Відновіть усю карму і перемістіться до будь-якого дослідженого притулка; споживає здобутий перехід
+Missing Requirements:      <req>|Відсутні вимоги:      <req>
+Slugcat Unlocked: <slugcat>|Розблокувати слимакота: <slugcat>
+Q U E S T   C O M P L E T E|К В Е С Т   З А В Е Р Ш Е Н О
+Warning: Hidden challenges will become normal challenges when retrying|Увага: приховані випробування стануть звичайними за наступної спроби
+Enables a persistent glow around the player|Вмикає постійне світіння навколо гравця
+Start the expedition with an Electric Spear|Починайте експедицію з Електричним Списом
+Start the expedition with a Scavenger Bomb|Починайте експедицію з бомбою сміттярів
+Start the expedition with a Scavenger Lantern|Починайте експедицію з ліхтарем сміттярів
+Slow time at will by holding PICK UP and pressing MAP, also temporarily increases movement abilities|Сповільнюйте час коли заманеться натисканням клавіш ВЗЯТИ і МАПА, що тимчасово посилює моторні навички
+Enables the use of passages during expeditions which can be earned by completing challenges|Дозволяє використання переходів під час експедицій, які можна отримати виконанням випробувань
+Allows the player to stow an additional spear on their back by holding PICK UP|Дозволяє гравцеві покласти додаткового списа на свою спину утриманням ВЗЯТИ
+Start the expedition with a Vulture Mask|Починайте експедицію з Маскою Стерв'ятника
+Start the expedition with the Joke Rifle|Починайте експедицію з Жартівкою
+Allows the player to wield a spear in each hand|Дозволяє гравцеві орудувати списами у кожній руці
+Makes the player highly resistant to explosions|Робить гравця дуже стійким до вибухів
+Start the expedition with a Singularity Bomb|Починайте експедицію з бомбою сингулярності
+Allows the player to jump a second time mid-air by pressing JUMP and PICKUP|Дозволяє гравцеві вдруге стрибнути в повітрі натисканням СТРИБАТИ і ВЗЯТИ
+Apply Burdens to increase both difficulty and the amount of points received|Застосовуйте Тягарі, щоб збільшити як складність, так і кількість опримуваних очок
+Craft different combinations of items together by holding UP and PICK UP|Поєднуйте різні комбінації предметів разом утриманням ВГОРУ і ВЗЯТИ
+Whilst undertaking an expedition, certain gameplay elements are changed:|Під час проведення експедиції, змінюються певні елементи ігроладу:
+Increases the players movement abilities, granting high speed and jump height|Покращує моторні навички гравців, що надає високу швидкість і висоту стрибків
+Expedition is a challenge oriented gamemode featuring permadeath and progression. Pick a character and prepare for an expedition by selecting which challenges to undertake.|Експедиція — режим гри, орієнтований на випробування, де є прогресія і остаточні смерті. Виберіть персонажа та підготуйтеся до експедиції, обираючи те, якими випробуваннями зайнятися.
+A successful expedition will grant points and varying rewards depending on what was accomplished, these can range from new Perks to use in future runs, Burdens to increase the difficulty in interesting ways, and music tracks that can be played in the Jukebox menu.|Успішна експедиція надасть очки та різноманітні нагороди, залежно від того, чого було досягнуто. Вони можуть різнитися від нових Переваг для використання у подальших забігах, до Тягарів на посилення складності цікавими шляхами, і музикальних треків, які можна відтворювати у меню Програвача.
+Players start the Expedition in a randomly selected shelter.<LINE>All characters start with two karma and have a maximum karma limit of five.<LINE>The Survivor achievement is completed by default, and other achievements are not gated by it.<LINE>Passages are disabled by default, instead being unlocked by a Perk.<LINE>Echoes will not spawn on the first cycle.<LINE>There is no cycle limit for The Hunter in Expedition.<LINE>Collectable tokens will not appear and discovered lore is not saved in the Collection menu.|Гравці починають Експедицію в випадково обраному притулку.<LINE>Персонажі починатимуть з двома рівнями карми та можливістю отримати максимум п'ять карми.<LINE>Досягнення Вцілілого отримується за замовчуванням, а інші досягнення ним не огороджуються.<LINE>Переходи за замовчуванням вимкнені, але натомість розблоковуються однією з Переваг.<LINE>Відлуння не з'являтимуться на першому циклі.<LINE>Обмеження кількості циклів Мисливця в Експедиції відсутнє.<LINE>Розблокувальні токени не з'являтимуться, а пізнана історія не буде збережена в меню Колекції.
+Select a slugcat to use for the duration of the expedition. The expedition will take place in the same world as their campaign but with story elements removed. If Jolly Co-op is enabled, you can also configure the number of additional players at any time.|Виберіть слимакота, яким користуватиметеся протягом експедиції. Експедиція відбуватиметься в тому самому світі, що й кампанія слимакота, але сюжетні елементи зміняться. Якщо ввімкнений Веселий Ко-оп, то також можна в будь-який час змінювати кількість додаткових гравців.
+Monk and Survivor - Unlocked by default<LINE>Hunter - Unlocked once Monk or Surivor's campaign is beaten<LINE>Others - Unlocked once their campaign is beaten|Чернець і Вцілілий — розблоковані за замовчуванням<LINE>Мисливець — розблоковується разом з проходженням кампанії Ченця або Вцілілого<LINE>Інші — розблоковуються водночас зі своєю кампанією
+The challenge select page is where you craft your expedition. Adjust the number and types of challenges you will aim to complete and see how many points you will earn once the expedition is completed.|Екран вибору випробування — місце, де ви створюєте свою експедицію. Налаштуйте кількість і типи випробувань, які разраховуєте завершити, і побачите, скільки очок ви отримаєте, коли буде завершена експедиція.
+Toggles whether or not the selected challenge is hidden. Hidden challenges are completely random and their requirements are only revealed once all regular challenges have been completed. Hidden challenges are worth twice as many points. An expedition must have at least one non-hidden challenge.|Перемикач для відображення обраного випробування. Приховані випробування абсолютно випадкові, і їх умови відкриваються тільки коли всі інші випробування були завершені. Приховані випробування варті вдвічі більше очок. Експедиція має мати щонайменш одне не приховане випробування.
+Controls how many challenges the expedition will have, up to a maximum of five. A point bonus is applied for multiple challenges.|Контролює, скільки випробувань матиме експедиція, максимум до п'яти. За велику кількість випробувань надається бонус очок.
+Randomizes all challenges at once. Can only be used if no challenge filters are applied.|Урізноманітнює одразу всі випробування. Може бути використаним, тільки якщо не застосовуються фільтри випробувань.
+Indicates your progress to the next level and how much the current expedition will award. If the bar blinks rapidly then completing the expedition will grant a level. The number at the end of the bar displays how many levels will granted.|Вказує ваш рівень прогресу до наступного рівня і скільки прогресу надасть поточна експедиція. Якщо шкала швидко блимає, тоді завершення експедиції надасть новий рівень. Число на кінці шкали відображатиме кількість рівнів, які будуть отримані.
+Complete quests to unlock additional content such as perks, burdens and music tracks.<LINE><LINE>'Expedition' quests are completed by undertaking an expedition that meets certain requirements, whilst 'Milestone' quests are completed after reaching a specific goal across multiple expeditions.|Виконуйте квести, щоб розблоковувати додатковий контент, такий як переваги, тягарі і музикальні треки.<LINE><LINE>«Експедиційні» квести виконуються здійсненням експедиції, яка задовільняє певні вимоги, тоді як «Віхові» квести виконуються досягненням певної мети між багатьма експедиціями.
+Highlight a quest to see all of its requirements and rewards. Try to put together an expedition that completes multiple quests at once!|Наведіть на квест, щоб переглянути всі його вимоги та нагороди. Спробуйте сколотити експедицію, якою виконується багато квестів водночас!
+Grants The Hunter's ability to store spears on their back to other characters. A useful buff for players engaging in combat challenges.|Надає здатність Мисливця зберігати списи на своїй спині іншим персонажам. Корисне посилення для гравців, які виконують бойові випробування.
+Missions are hand-crafted expeditions with specific challenges and starting locations. Some missions may also require you to use a certain Perk or Burden. These cannot be removed, however additional Perks and Burdens can be enabled if desired.|Місії — ретельно розроблені експедиції з певними випробуваннями та початковими локаціями. Деякі місії також вимагають від вас користуватися певною Перевагою або Тягарем. Хоча їх прибрати не можна, можна ввімкнути додаткові Переваги та Тягарі, якщо заманеться.
+In order to select a mission, you must first unlock all of its requirements. Some quests will require that a mission is completed to grant its rewards. You can also repeat a mission at anytime to strive for the fastest time!|Щоб вибрати місію, треба спочатку розблокувати всі її вимоги. Деякі квести потребують виконання певної місії, перш ніж надати свої винагороди. Ви також можете переграти місію коли завгодно, щоб спробувати досягти найкращого часу!
+The Jukebox menu lets you listen to your favourite tracks from Rain World and Rain World: Downpour. All music tracks can be unlocked as rewards for completing quests.|Меню Програвача дозволяє вам прослуховувати найулюбленіші треки з Rain World і Rain World: Downpour. Усі музикальні треки можуть бути розблоковані як винагороди за виконання квестів.
+Repeats the currently selected track|Повторює вибраний наразі трек
+Set a track to play as the menu theme|Встановлює трек як музику головного меню
+Unlocked via quests, perks can be applied to an expedition to even the odds, granting new tools and abilities for making completing challenges easier. See below for a full list of unlockable perks.|Переваги розблоковуються квестами, і можуть бути застосовані на експедиції, щоб вирівняти шанси, надаючи нові засоби і здібності для полегшення випробувань. Перегляньте нижче лист розблоковуваних переваг.
+Start the expedition with a persistent glow around the player, usually granted by consuming a neuron. Useful in dark environments or when using the BLINDED burden.|Почніть експедицію з постійним сяйвом навколо гравця, що зазвичай надається споживанням нейрону. Корисне в темних середовищах або коли використовується тягар ОСЛІПЛЕННЯ.
+Start the expedition with a Scavenger Lantern, a portable light source -- and for some slugcats -- a source of vital warmth.|Почніть експедицію з Ліхтарем Сміттярів — портативним джерелом світла (і життєнеобхідного тепла для деяких слимакотів).
+Grants the ability to slow time at will by holding PICK UP and pressing MAP. A visual indicator for the ability's cooldown appears above the cycle timer.|Надає здатність сповільнювати час коли заманеться утриманням клавіш ВЗЯТИ і МАПА. Візуальний індикатор тривалості перезарядки здібності з'явиться понад таймером циклу.
+re-enables the use of passages to travel to previously visited shelters and recover all karma while doing so. Rather than being granted by achievements, a passage is awarded for each completed challenge.|Вмикає назад здатність користуватися переходами для подорожей до попередньо відвіданих притулків, водночас відновлюючи всю карму. Переходи нагороджуються за кожне виконане випробування, а не кожне здобуте досягнення.
+Start the expedition with a Vulture Mask, helping to keep hostile creatures at bay, or make them fleeing targets.|Почніть експедицію з Маскою Стерв'ятника, що допомагає утримувати ворожих істот подалі або змушує їх тікати на всі боки.
+Start the expedition with reinforced karma. Reinforced karma is the only way to prevent permadeath at the lowest karma level. If the cycle ends in failure, a karma flower will appear at the site of death. Will be permanently lost if not recovered.|Почніть експедицію із захищеною кармою. Захищена карма — єдиний засіб запобігти остаточній смерті на найнижчому рівні карми. Якщо цикл закінчується невдачею, Кармоцвіт виросте на місті смерті, і назавжди зникне в разі повторної втрати.
+Bestows the Spearmaster's dual-wielding ability to other characters. Being able to carry a spear in each hand greatly increases the speed at which you can deal damage.|Надає здібність Майстра Списа орудувати двома руками іншим персонажам. Здатність носити по спису в кожній руці значно збільшує швидкість, з якою ви можете завдавати шкоди.
+Start the expedition with a Singularity Bomb, a devastating weapon that can eliminate even the toughest of creatures, just make sure not to get caught in the blast.|Почніть експедицію з Бомбою Сингулярності — руйнівною зброєю, яка може усунути навіть найсильніших істот. Тільки переконайтеся, що самі не потрапите до зони ураження.
+Withstand explosive encounters by borrowing The Artificer's explosion immunity. Useful if unfavored by the Scavengers, or for surviving situations where an explosion may be a last resort.|Витримуйте вибухові зіткнення запозиченням вибухостійкості Техніка. Корисно, якщо вас не дуже полюбляють Сміттярі, або для виживання в ситуаціях, де вибух може бути єдиним виходом.
+Grants The Gourmand's crafting ability to other characters. Experiment with objects you find by combining them into new ones to help in different situations. Activate by holding UP and PICK UP with an item in each hand.|Надає здатність Гурмана майструвати предмети іншим персонажам. Експериментуйте з предметами, які знаходите, поєднуючи їх у нові, щоб використати в різних ситуаціях. Активуйте утриманням ВГОРУ і ВЗЯТИ з предметами в кожній руці.
+Increases the chosen characters running and jumping abilities by borrowing The Rivulet's high agility, letting you cross great distances with ease. Less efective for larger characters.|Збільшує здібність обраного персонажа бігати та стрибати запозиченням високої спритності Струмка, що дозволяє з легкістю долати великі відстані. Менш ефективне для більших персонажів.
+Start the expedition with the Joke Rifle. Originally shown off as an April Fools joke, the Rifle makes its way into Rain World: Downpour as a useful tool. Experiment by loading different items as ammo by holding the PICK UP button, and fire the Rifle with the THROW button.|Почніть експедицію з Жартівкою. Спочатку представлена як першоквітневий жарт, жартівка потрапляє в Rain World: Downpour як корисний інструмент. Експериментуйте, заряджаючи різні предмети як боєприпаси утриманням клавіші ВЗЯТИ, і стріляйте з Жартівки за допомогою клавіші КИДАТИ.
+Shrouds the entire world in an endless night, obscuring danger in every shadow. A light source will be vital for survival.|Огортає весь світ нескінченною ніччю, приховуючи небезпеку в кожній тіні. Джерело світла життєво важливе для виживання.
+Removes the safety net that karma provides, triggering permadeath for any failure. Made only slightly less punishing with the use of the Karma Flower perk.|Видаляє страховку, яку забезпечує карма, викликаючи остаточну смерть за будь-яку невдачу. Трохи пом'якшується використанням бонусу «Кармоцвіт».
+Makes the player public enemy number one. All hostile creatures in the region will know your location at all times, making standing still a bad choice.|Робить гравця ворогом номер один. Всі ворожі істоти в регіоні знатимуть ваше місцезнаходження в будь-який момент, тож баритися на місці не варто.
+Something stalks you through the world, endlessly searching for its target. Though not impossible to defeat, it will always return.|Щось відстежує вас по всьому світу, безперервно шукаючи свою ціль. Хоча перемогти переслідувача не неможливо, він завжди повернеться.

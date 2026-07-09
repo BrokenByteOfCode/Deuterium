@@ -1,0 +1,481 @@
+0Bite|Кусати
+Hiss|Шипіти
+Call|Звати
+SRS:|СЧС:
+NSH:|БЗО:
+EOC:|ЕХ:
+BSM:|ССМ:
+NGI:|НҐІ:
+Scar|Шрам
+Luna|Луна
+Hang|Повиснути
+Bash|Гепнути
+Flee|Тікати
+Grab|Схопити
+Spit|Плюнути
+Noot|Гудіти
+Howl|Вити
+Snip|Клацати
+Jump|Стрибати
+Moo!|Мукати
+None|Немає
+Lunge|Кинутися
+Saint|Святий
+Gills|Зябри
+Vents|Вентиляції
+Click|Луснути
+Sleep|Заснути
+Birth|Породити
+Chomp|Зжерти
+Throw|Кинути
+Shock|Вдарити Струмом
+Point|Вказати
+Laser|Націлити
+Arena|Арена
+Class|Клас
+Items|Предмети
+STOP.|ЗУПИНИСЬ.
+Launch|Метнутися
+Tongue|Язик
+Spears|Списи
+Struts|Підпори
+Burrow|Заховатися
+Attach|Прикріпитися
+Squeak|Пищати
+Pounce|Накинутися
+Skewer|Нанизати
+Detach|Відчепитися
+Snatch|Схопити
+Sprint|Мчати
+Signal|Сигналізувати
+Ascend|Піднятися
+DON'T.|НЕ СМІЙ.
+LEAVE.|ЙДИ.
+Consume|Поглинути
+Rivulet|Струмок
+The Rot|Гниль
+Rubicon|Рубікон
+Pick Up|Підняти
+Release|Відпустити
+Discard|Відкинути
+Stealth|Скритися
+Ensnare|Зловити
+Harpoon|Загарбати
+Pick up|Підняти
+Descend|Спуститися
+...WHY?|...ЧОМУ?
+Are my words reaching you?|Чи сягають до тебе мої слова?
+Go... away! You ate... me!|Йди... геть! Ти... з'їв мене!
+creaturetype-ScavengerKing|Отаман Сміттярів
+objecttype-SingularityBomb|Бомба Сингулярності
+Undiscovered Transcription|Незнайдена Передача
+Destroy all armored plates|Збити всі броньовані пластини
+Please, don't touch those!|Будь ласка, не чіпай їх!
+Ah, you must be in a rush.|А ти, мабуть, кудись поспішаєш.
+Stop. If your intent is to damage my systems further, then I have no reason to continue this conversation.|Зупинись. Якщо ти наміряєшся й надалі пошкоджувати мої системи, мені немає його продовжувати цю розмову.
+Very well, you are on your own, creature. Please leave.|Ну нехай, ти тепер сам по собі, маленька істото. Будь ласка, йди.
+We've read this, little creature. As previously stated:|Ми вже це читали, маленька істото. Як зазначалося раніше:
+Hold Eat while grabbing an unconscious creature to maul|Утримуйте клавішу З'ЇСТИ, тримаючи непритомну істоту, щоб калічити
+Hold throw while flying to charge your ascension burst.|У польоті утримуйте КИДАТИ, щоб зарядити лускіт вознесіння.
+Hold the pick-up button to pull needles from your body.|Утримуйте клавішу ВЗЯТИ, щоб витягувати голки зі свого тіла.
+You're not leaving? I suppose I should continue then...|Ти ще не йдеш? Тоді, напевно, продовжу звідти, де й зупинилася...
+However, you really shouldn't stay. It's too dangerous.|Однак, тобі справді не варто затримуватися. Тут надто небезпечно.
+Don't. My systems have already been damaged enough as it is. Go away.|Не смій. Мої системи вже були достатньо пошкоджені, як є. Йди собі.
+Best of luck to you, and your family. There is nothing else I can do.|Удачі тобі та твоїй родині. Більше нічого я зробити не можу.
+Go... away... bad... thing...|Йди... геть... погане... щось...
+Five Pebbles (Primary Cortex)|П'ять Гальок (Первинний Кортекс)
+Abstract Convergence Manifold|Абстрактний Масив Збіжності
+Take your offspring with you.|Візьми своїх нащадків з собою.
+Too... broken...|Надто... пошкоджена...
+The Rot (Depths)|Гниль (Глибини)
+Silent Construct|Мовчазна Споруда
+Windswept Spires|Вивітренні Шпилі
+Hold to view map|утримуйте для перегляду мапи
+Parry ## attacks|Відбити атак: ##
+Met Five Pebbles|Зустріли П'ять Гальок
+...help... me...|...допоможи... мені...
+LET GO! p please|ВІДПУСТИ! бу будь ласка
+Shall we finish?|Завершимо?
+No! You... killed... me!|Ні! Ти... вбив... мене!
+The Rot (Cystic Conduit)|Гниль (Кістозний Канал)
+creaturetype-StowawayBug|Прихованець
+creaturetype-JungleLeech|Джунглева П'явка
+Submerged Superstructure|Затонула Суперструктура
+Please do not do that...|Будь ласка, не роби так...
+...Not forgotten pain...|...Не забутий біль...
+No! <CapPlayerName> ate... me!|Ні! <CapPlayerName>... з'їв... мене!
+##<LINE>without anything dying|##,<LINE>не давши нічому померти
+Welcome back little messenger.|З поверненням, маленький посланцю.
+Spanish translation by Garrakx|Іспанський переклад від Garrakx
+...Little green friend. Hello.|...Маленький відвідувачу. Привіт.
+No! Am... broken... because you...|Ні! Я... пошкоджена... через тебе...
+Five Pebbles (Linear Systems Rail)|П'ять Гальок (Рейки Лінійних Систем)
+Looks to the Moon (Memory Conflux)|Споглядачка Місяця (Відсік Пам'яті)
+Have you brought your family here?|З тобою малеча?
+Hello again. Shall I keep reading?|Привіт ще раз! Мені продовжувати читати?
+No!|Ні!
+WO:|БО:
+PI:|БІ:
+GS:|СЗ:
+SI:|ВІ:
+HR:|ГР:
+CW:|ПВ:
+EP:|МП:
+FP:|ПГ:
+HF:|ХФ:
+UU:|НУ:
+Sit|Присісти
+Bow|Вклонитися
+Eat|З'їсти
+Fly|Літати
+Run|Бігти
+Leave... me alone. Terrible... creature...|Дай... мені спокій... жахлива... істото...
+I have read this. As I have stated before:|Я це читала. Як я вже раніше сказала:
+Explosive jump while holding down to parry|Підстрибніть вибухом, тримаючи ВНИЗ, щоб відбивати
+Looks to the Moon's Transcription (Future)|Розшифровка Споглядачки Місяця (Майбутня)
+You'd better hurry along, little creature!|Тобі краще поквапитися, відважний посланцю.
+I have nothing to say to you, <PlayerName>.|Мені нема чого тобі сказати, <PlayerName>.
+Press jump in the air to extend your tongue|Натисніть СТРИБАТИ в повітрі, щоб висунути язика
+Use directional inputs to aim the ascension|Користуйтеся напрямками, щоб навестися вознесінням
+Did you not register what I've said to you?|Ти не зареєстрував те, що я тобі сказав?
+Please, leave quickly, while you still can.|Будь ласка, йди звідси, поки ще можеш.
+Go away, <PlayerName>.|Йди геть, <PlayerName>.
+creaturetype-EelLizard|Вугоровий Ящер
+creaturetype-AquaCenti|Водяна Багатоніжка
+creaturetype-Inspector|Інспектор
+Atop the Tallest Tower|На Найвищій Вежі
+Primordial Underground|Споконвічне Підземелля
+Survive for ## seconds|Вижити секунд: ##
+Safari region unlocked|Регіон сафарі розблоковано
+Hold grab to activate.|Утримуйте ВЗЯТИ, щоб активувати.
+The Pilgrim-linebreaks|Паломник
+Wait, that's not food!|Стривай, це не їжа!
+not... edible, please.|не... їстівні, прошу.
+...don't... trust you.|...не... довіряю тобі.
+Keep your family safe!|Бережи свою родину!
+...Go find... shelter.|...Знайди... прихисток.
+Assets and content by:|Асети і контент від:
+Leave me alone...|Дай мені спокій...
+creaturetype-Yeek|Їк
+Forgotten Conduit|Забутий Канал
+Frosted Cathedral|Морозний Собор
+Glacial Wasteland|Льодовикове Пустище
+Ancient Labyrinth|Стародавній Лабіринт
+Put a ## in a den|Покласти ## у притулок
+...Nice to see...|...Приємно бачити...
+...Cold coming...|...Наближається мороз...
+Stop! Stop giving me your junk!|Досить! Досить давати мені свій непотріб!
+saint_old_ascension_tutorial_ps|Користуйтеся напрямками, щоб навестися вознесінням.
+Facility Roots (Western Intake)|Витоки Комплексу (Західний Водозабір)
+Clear the game as ## to unlock.|Пройдіть кампанію «##» щоб розблокувати.
+...why did you... save... me...|...навіщо ти... врятував... мене...
+Where do you find all of these?|Де ти це все знаходиш?
+Let us see what you have found.|Нумо поглянемо, що ти знайшов.
+...Why... take all I... have...|...Нащо... забрав усе що я... мав...
+...Thank you... for... company.|...Дякую... за... компанію.
+...Find heat... Cold is danger.|...Шукай тепла... Холод — небезпека.
+Korean translation by topicular|Корейський переклад від topicular
+Leave me alone! You terrible creature!|Та дай мені вже спокій, жахлива істото!
+Pups can now be found in Sandbox Mode.|Тепер у Пісочниці можна зустріти Слимакошенят.
+Cold... You better go. I will be fine.|Мороз... Тобі краще йти. Зі мною все буде гаразд.
+The storm is coming. You should leave.|Наближається хуртовина. Тобі краще йти.
+We have read this one, little creature.|Ми цю вже читали, маленька істото.
+Clear the game as <X> or <Y> to unlock.|Пройдіть кампанії <X> або <Y>, щоб розблокувати.
+Is that something new? Allow me to see.|Чи це щось нове? Дай-но погляну.
+Special button interactions:|Взаємодії спеціальної кнопки
+Auxiliary Transmission Array|Допоміжний Масив Передач
+Auxillery Transmission Array|Допоміжний Масив Передач
+Hold to select and use doors|утримуйте щоб обирати та користуватися дверима
+...It is... warmer... today.|...Сьогодні... тепліше.
+Tap Pick up and Jump together to explosive jump|Натисніть ВЗЯТИ і СТРИБАТИ разом, щоб підстрибнути вибухом
+Hold Throw while flying to perform an ascension|Натисніть КИДАТИ в польоті, щоб провести вознесіння
+Rubicon content is now available in Arena Mode.|Контент Рубікону тепер доступний у режимі Арени.
+I am surprised you have found so many of these.|Дивує, що ти взагалі стільки їх знайшов. 
+Ah, don't worry about me. You should get going!|А, за мене не хвилюйся. Тобі треба поспішати!
+Oh. It's you, why have you come back...? Again.|О. То ти, чому повернувся...? Знов.
+Hold Pick Up with an empty hand to generate a spear|Утримуйте ВЗЯТИ з вільною рукою, щоб створити списа
+This is not a request. I have important work to do.|Це не прохання. У мене є важлива робота.
+Press throw with empty hands to extend your tongue|Натисніть КИДАТИ з порожніми руками, щоб висунути язика
+Hold Pick Up to move a spear to and from your back|Затисніть ВЗЯТИ, щоб перемістити списа зі спини або на неї
+Undelete the challenge you just deleted to unlock.|Відновіть щойно видалене випробування, щоб розблокувати.
+Hello again. I hope you have a reason to visit me.|Привіт знову. Сподіваюся, у тебе є причина відвідати мене.
+Tap Pick up and Jump together to take flight|Натисніть ВЗЯТИ і СТРИБАТИ разом, щоб злетіти
+You better go, <PlayerName>! I will be fine.|Тобі краще йти, <PlayerName>! Зі мною все буде гаразд.
+...So little... left. Why hurt... me more...|...Так мало... залишилося. Навіщо робити мені... ще більше...
+saint_old_ascension_tutorial_switch|Користуйтеся напрямками, щоб навестися вознесінням.
+Looks to the Moon (Neural Terminus)|Споглядачка Місяця (Нейронний Термінал)
+Have you come back to see me again?|Знову прийшов побачитися зі мною?
+Get... get away... round.... thing.|Іди... іди геть... округле... щось.
+Wait, please don't leave with that!|Стривай, благаю, не йди з нею!
+...Friend... please find... safety.|...Друже... благаю, знайди... безпечне місце.
+saint_old_ascension_tutorial_xbox|Користуйтеся напрямками, щоб навестися вознесінням.
+Looks to the Moon's Transcription|Розшифровка Споглядачки Місяця
+Ah. Have you found something new?|А. Чи ти знайшов щось нове?
+Oh... Good luck, little creature.|Щасти тобі, мій безталанний маленький друже.
+Hold Pick Up while holding up to combine two differing items|Натисніть ВЗЯТИ, тримаючи ВГОРУ, щоб поєднати два різні предмети
+Try using your weight in creative ways to gain an advantage.|Намагайтеся креативно використовувати свою вагу, щоб отримати перевагу.
+Oh? What have you found this time? Let's see what it says...|О? І що ти цього разу знайшов? Нумо прочитаймо, про що тут ідеться...
+Hold Pick Up to regurgitate a random item|Утримуйте ВЗЯТИ, щоб відригнути випадковий предмет
+Clear a total of ## challenges to unlock.|Виконайте загалом ## випробувань, щоб розблокувати.
+There's not a lot of time. You should go!|Часу не так багато. Ти маєш іти далі!
+Take your offspring with you when you go.|Забери своїх нащадків з собою, як йтимеш.
+Have you brought something new this time?|Цього разу ти приніс щось новеньке?
+[ Collection Empty ]|[ Порожня Колекція ]
+Unique pearls read :|Прочитано унікальних перлин :
+creaturetype-FireBug|Вогнежук
+creaturetype-SlugNPC|Слизокошеня
+objecttype-JokeRifle|Жартівка
+objecttype-GooieDuck|Смердючка
+objecttype-LillyPuck|Лілія
+objecttype-MoonCloak|Плащ
+Ascend all creatures|Вознести всіх істот
+Escort a ## to a den|Відвести до притулку: ##
+Food quest completed|Завершено харчове завдання
+The Nomad-linebreaks|Кочівник
+Oh, leaving already?|Вже йдеш?
+Where are you going?|Куди ти йдеш?
+Looks to the Moon (Abstract Convergence Manifold)|Споглядачка Місяця (Абстрактний Масив Збіжності)
+Change the slugcat class/abilities for Player <X>|Змінити клас слимакота/здібності Гравця <X>
+Refer to the Pause Menu for Safari Mode controls.|Зверніться до Меню Паузи щодо керування Режимом Сафарі.
+Looks to the Moon (Vents)|Споглядачка Місяця (Вентиляції)
+creaturetype-MirosVulture|Лезокрилець
+creaturetype-MotherSpider|Павучиха
+objecttype-DandelionPeach|Кульбабковий Персик
+Unknown Pearl Contents...|Невідомий Вміст Перлини...
+## without anything dying|##, не давши нічому померти
+Arena character unlocked:|Персонажа арени розблоковано:
+What are you doing? Stop!|Що ти робиш? Стій!
+...storm... coming... Go!|...хуртовина... наближається... Рушай!
+...Please find... Warmth.|...Прошу, знайди... тепло.
+...Why did... you stay...|...Чому... ти залишився...
+Submerged Superstructure (The Heart)|Затонула Суперструктура (Серце)
+Ah, welcome back. As I was saying...|З поверненням. Як я вже казала...
+##<LINE>without letting a @@ die|##,<LINE>не давши жодному (@@) померти
+Submerged Superstructure (Vents)|Затонула Суперструктура (Вентиляції)
+Oh... Good bye, little creature.|О... Прощавай, маленька істото.
+While in the air, tap jump and pick-up together to take flight.|У повітрі, одночасно натисніть СТРИБАТИ і ВЗЯТИ, щоб злетіти.
+Developer Commentary mode is now available in the Options menu.|Коментарі Розробників тепер доступні в меню Налатшувань.
+Stop, that's dangerous! You are going to break something again!|Стій, це небезпечно! Ти знову щось зламаєш!
+Hold throw and directional inputs while flying to perform an ascension.|У польоті утримуйте КИДАТИ разом з напрямами, щоб виконати вознесіння.
+Friends sheltered :|Прихищено друзів :
+objecttype-GlowWeed|Сяйтрава
+Waterfront Facility|Прибережний Комплекс
+Linear Systems Rail|Рейки Лінійних Систем
+Befriend a creature|Приручити істоту
+Unique pearls read:|Прочитано унікальних перлин:
+stop, don... don't!|стій, не... не треба!
+Let us take a look.|Нумо поглянемо.
+It is getting cold.|Починає морозити.
+What are you doing?|Що ти робиш?
+...All I... have...|...Все що... мав...
+...Bring it back...|...Поверни її назад...
+creaturetype-SpitLizard|Карамельний Ящер
+creaturetype-ZoopLizard|Полуничний Ящір
+Warp to random creature|Переміститися до випадкової істоти
+Are you not interested?|Тобі не цікаво?
+What a dumb creature...|Що за тупа істота...
+creaturetype-TerrorLongLegs|Мати-Довгоніг
+creaturetype-ScavengerElite|Елітний Сміттяр
+Five Pebble's Transcription|Розшифровка П'яти Гальок
+## without letting a @@ die|##, не давши жодному (@@) померти
+...Little... green thing...|...Маленьке... зелене щось...
+...You should... find heat.|...Тобі треба... знайти тепло.
+...Too cold... Alone again.|...Надто холодно... Знову сам.
+creaturetype-BigJelly|Велика Медуза
+objecttype-EnergyCell|Клитина Розрідження
+Met Looks to the Moon|Зустріли Споглядачку Місяця
+The Martyr-linebreaks|Мученик
+The Mother-linebreaks|Матір
+No! Don't... hurt me!|Ні! Не... роби мені боляче!
+... stop... please...|... зупинись... будь ласка...
+Please do not return.|Будь ласка, не повертайся.
+That can't be good...|Це не може бути добре...
+...No, don't... take!|...Ні, не... забирай!
+...Give it... back...|...Віддай... її...
+...Leave me... alone.|...Залиш мене... в спокої.
+objecttype-FireEgg|Яйце Вогнежука
+[ No Data Loaded ]|[ Дані Не Завантажені ]
+Kill all creatures|Убити всіх істот
+Friends sheltered:|Прихищено друзів:
+Leave me... alone.|Залиш мене... в спокої.
+Let me continue...|Дозволь продовжити...
+...Give... back...|...Поверни... її...
+objecttype-Seed|Насінина
+THE SPEARMASTER|МАЙСТЕР СПИСА
+The Spearmaster|Майстер Списа
+Solitary Towers|Одинокі Вежі
+Neural Terminus|Нейронний Термінал
+Desolate Fields|Спустошені Ниви
+Suburban Drifts|Засніжене Передмістя
+Barren Conduits|Безплідні Трубопроводи
+Emotional State|Емоційний Стан
+Ascend every ##|Вознести кожних: ##
+Pop every plant|Луснути кожну рослину
+Parry ## attack|Відбити атак: ##
+Oh... Good bye.|О... До побачення.
+GET OUT!|ГЕТЬ!
+Gourmand|Гурман
+Pipeyard|Трубне Депо
+The Husk|Каркас
+Ascended|Вознесений
+Parries:|Відбивань:
+GET OUT.|ГЕТЬ.
+Suns...?|Сонця...?
+...No...|...Ні...
+Five Pebbles:|П'ять Гальок:
+THE ARTIFICER|ТЕХНІК
+The Artificer|Технік
+Outer Expanse|Зовнішні Простори
+The Precipice|Урвище
+Journey's End|Кінець Подорожі
+Change target|Змінити цільову істоту
+Win Condition|Умова перемоги
+Kill every ##|Убити кожних: ##
+Befriend a ##|Приручити: ##
+Gain ## point|Отримати пунктів: ##
+What is this?|Що це?
+Please leave.|Будь ласка, йди вже.
+...Go away...|...Йди геть...
+THE RIVULET|СТРУМОК
+The Rivulet|Струмок
+Spearmaster|Майстер Списа
+Undergrowth|Зарості
+Sunken Pier|Затонулий Пірс
+Frozen Mast|Змерзла Щогла
+Sump Tunnel|Каналізація
+Hang on Mom|Повиснути на Матері
+Telekinesis|Телекінез
+<X> and <Y>|<X> та <Y>
+The Pilgrim|Паломник
+...storm...|...хуртовина...
+...Hello...|...Привіт...
+THE GOURMAND|ГУРМАН
+The Gourmand|Гурман
+Random start|Випадковий старт
+Icy Monument|Крижаний Монумент
+Bitter Aerie|Сумне Кубло
+Frigid Coast|Крижаний Берег
+Disable Rain|Вимкнути Дощ
+Pick up Food|Підібрати Їжу
+Hello there.|Привіт.
+Well then...|Ну що ж...
+...Why back?|...Чому тут?
+THE SAINT|СВЯТИЙ
+The Saint|Святий
+Artificer|Технік
+The Floor|Поділ
+The Shell|Панцир
+The Heart|Серце
+Water Jet|Бризнути
+Spray Ink|Обприскати Чорнилами
+Creatures|Істоти
+The Nomad|Кочівник
+Clear the game as Gourmand, Artificer, or Hunter to unlock.|Пройдіть гру за Гурмана, Техніка або Мисливця, щоб розблокувати.
+Hold the EAT button while a stunned creature is being held.|Утримуйте клавішу З'ЇСТИ коли тримаєте приголомшену істоту.
+The Rarefaction Cell item is now available in Sandbox Mode.|Клітина Розрідження тепер доступна у режимі Пісочниці.
+Little messenger, we do not have much time. You must hurry!|Маленький посланцю, в нас обмаль часу. Тобі треба поспішати!
+Clear the game as Rivulet and Spearmaster to unlock.|Пройдіть гру за Струмка і Майстра Списа, щоб розблокувати.
+Breathes underwater, and moves through the world with ease. These adaptations are essential,<LINE>as you'll be pitted against a world of increasingly frequent floods, where time is of the essence.|Дихає під водою, та з легкістю подорожує світом. Такі здібності необхідні, адже ти<LINE>протистоятимеш світові, сповненому дедалі частіших злив, де час має вирішальне значення.
+A fierce combatant, master of pyrotechnics and explosives. Keen to move up in<LINE>the foodchain, your journey will surely be one lined with constant bloodshed and warfare.|Запеклий боєць, майстер піротехніки та вибухівки. Палко прагнучи видертися нагору харчового<LINE>ланцюжка, твій шлях неодмінно ряснітиме постійним кровопролиттям і битвами.
+Frail and armed with a long tongue. Your journey will be one of perfect enlightenment,<LINE>but walking this path requires patience, caution, and complete attunement with the world.|Немічний, та озброєний довгим язиком. Твоя подорож — шлях досконального просвітництва,<LINE>але подорожування ним вимагатиме терпіння, обережності, та цілковитої злагоди зі світом навколо.
+An abnormality who feeds using needles pulled from its body. A traveller from a<LINE>far away land; A feeling in your depths sets you out once again, messenger...|Аномалія, що харчується за допомогою голок, витягнутих із власного тіла. Мандрівник з<LINE>далекого краю. Відчуття з твого єства знову кличе тебе вирушити в подорож, посланцю...
+An indulger of the simpler pleasures in life. Carrying the world in your stomach gives<LINE>many tactical advantages, but comes at an increased cost of sustainability.|Поціновувач простих задоволень у житті. Носіння всього світу в своєму<LINE>шлунку надає багато тактичних переваг, але тримати його повним нелегко.
+COLLECTION|КОЛЕКЦІЯ
+Metropolis|Метрополіс
+The Gutter|Ринва
+Cannonball|Впасти Стрімголов
+Swap Heads|Змінити Голову
+Camouflage|Камуфлюватися
+Time Limit|Часове Обмеження
+## Seconds|## Секунд
+Acceptance|Прийняття
+The Martyr|Мученик
+The Mother|Матір
+Looks to the Moon's Transcription (Pre-Collapse)|Розшифровка Споглядачки Місяця (До Колапсу)
+The Rifle item is now available in Sandbox Mode.|Гвинтівка тепер доступна у режимі Пісочниці.
+How cute, you brought your family, <PlayerName>?|Як мило, ти привів своє дитинча, <PlayerName>?
+12th Council Pillar, the House of Braids|12-й Стовп Ради, Дому Кіс
+Pups can now be found in some campaigns.|Тепер у деяких кампаніях можна зустріти Слимакошенят.
+Ah, you have found me something to read?|А, знайшов щось мені почитати?
+Oh... Please be careful on your journey.|Прошу, будь обережний, подорожуючи.
+Please, a moment of your time to finish?|Будь ласка, можеш приділити хвилинку твого часу, щоб закінчити?
+Primary Cortex|Первинний Кортекс
+Cystic Conduit|Кістозний Канал
+Desolate Canal|Спустошений Канал
+Play as target|Грати цільовою істотою
+Revoke Control|Позбавити Контролю
+Challenge #<X>|Випробування #<X>
+Gain ## points|Отримати пунктів: ##
+it... hurts...|Це... боляче...
+Let me finish.|Дай мені закінчити.
+Revisit regions that were explored in the single player campaigns,<LINE>this time as an outside observer that watches the ecosystem<LINE>unfold, uninterrupted by the antics of the player.|Повертайтеся до досліджених у сюжетній грі регіонах, цього разу<LINE>як споглядач ззовні, що спостерігає за розгортанням екосистеми<LINE>без втручання в це витівок гравця.
+Try to meet the win requirements on a series of pre-constructed arena<LINE>scenarios. More challenges will be unlocked as progression is made by<LINE>clearing the single player campaigns.|Спробуйте досягнути умов для перемоги на низці заздалегідь<LINE>збудованих сценаріїв арени. Разом с прогресом у головних<LINE>кампаніях розблоковуватимуться дедалі більше випробувань.
+While in the air, tap jump and pick-up together to activate karmic enlightenment.|Коли в повітрі, натисніть СТРИБАТИ і ВЗЯТИ разом, щоб активувати кармічне просвітлення.
+While in the air, press jump and pick-up together, to propel yourself explosively.|У повітрі, натисніть СТРИБНУТИ та ВЗЯТИ разом, щоби вибухово прискоритися.
+Tap the throw button to extend your tongue. Press jump while attached to let go.|Натисніть клавішу КИДАТИ, щоб висунути свого язика. Натисніть СТРИБНУТИ, щоб відчепитися.
+Tap jump in the air to extend your tongue. Press jump again while attached to let go.|Натисніть СТРИБНУТИ в повітрі, щоб висунути свого язика. Знову натисніть СТРИБНУТИ, щоб відчепитися.
+While you are attached to something, use up and down to extend or retract your tongue.|Коли ви зачепитеся за щось, користуйтеся ВГОРУ й ВНИЗ, щоб висунути або втягнути язика.
+You are cold and hungry. Find shelter from the storm soon, or you will pass out from the cold.|Ви змерзли й зголодніли. Швидше знайдіть прихисток від буревію, а інакше знепритомнієте від холоду.
+Only warm objects can rejuvenate your body heat in this extreme cold, but they will not last forever!|На такому морозі допоможуть зігрітися тільки теплі предмети, але їх не вистачить надовго!
+If you are going to make your visits a habit, the least you can do is bring me something new to read.|Якщо ти збираєшся зробити свої відвідини звичкою, тоді, щонайменше, принось мені щось нове почитати.
+Stab creatures with your white needles to leech energy from their bodies.|Заколюйте істот своїми білими голками, щоби висмоктувати енергію з їхніх тіл.
+I wonder, just how much time has passed since some of these were written.|Цікаво, скільки часу минуло відтоді, як деякі з них були написані.
+Another? Let us see... to be honest, I'm as curious to see it as you are.|Ще одна? Нумо подивимося... чесно кажучи, я настільки ж зацікавлена оглянути її, як і ти.
+Hold up and grab with differing objects in each hand, in order to procure something new.|Натисніть ВГОРУ та ВЗЯТИ з різними предметами в руках, щоб створити щось нове.
+It is nice to see you again, but we do not have much time left. Please hurry, messenger!|Приємно знову тебе бачити, але наш час спливає. Не барися!
+Holding up and grab with two differing food items, will eat them together as a meal.|Натисканням ВГОРУ та ВЗЯТИ з різною їжею в руках можна скуштувати їх разом як страву.
+You can also spit up random objects at the cost of food, if nothing is stored inside of you.|Також можна відригувати випадкові предмети за рахунок їжі, якщо в шлунку нічого не збережено.
+What are you doing? Please!! I only just got my freedom back, how cruel can you possibly be?|Що ти робиш? Благаю!! Я щойно повернула свою свободу, як ти можеш бути таким жорстоким?
+Hold pick-up with compatible ammunition in hand to load the rifle.|Утримуйте ВЗЯТИ разом з пасуючими набоями, щоби спорядити жартівку.
+Ah, you remind me of an old creature who used to visit here often.|Ах, ти нагадуєш мені одну стару істоту, яка часто навідувалася сюди.
+Hold pick-up to transform rocks or spears into explosives, at the cost of food.|Утримуйте ВЗЯТИ, щоб перетворити каміння або списи в вибухівку, за рахунок їжі.
+Those are the only memories I have left. I will cease functioning without them.|Це — єдині спогади, що залишилися у мене. Я перестану функціонувати без них.
+The passage of time has since taken them away, of course. That was a while ago.|Звісно, плин часу забрав і їх геть. Давно вже це було.
+Combat and other fast movements will quickly exhaust you.|Бої та інші швидкі пересування стрімко виснажуватимуть вас.
+Artificer can maul creatures while they are still alive.|Технік може калічити істот поки вони ще живі.
+Please, don't scare me like that. I don't appreciate it.|Будь ласка, не лякай мене так. Я цього не ціную.
+Now, I hope you have reason to visit me. I am very busy.|А тепер, сподіваюся, у тебе є привід відвідати мене. Я дуже зайнятий.
+Another ordeal to add to my running tally of bad luck...|Ще одна невдача, що поповнить мій перелік нещасть...
+The Outer Expanse gate remains unlocked beyond this point in the timeline.|Брами до Зовнішніх Просторів залишаться відчиненими у подальших кампаніях.
+Pups can now be found in Sandbox Mode, and some campaigns.|Тепер у Пісочниці, і деяких кампаніях, можна зустріти Слимакошенят.
+Let us see if there is anything important written on this.|Нумо поглянемо, чи на цій написано щось важливе.
+Little creature, please leave. I would prefer to be alone.|Маленький розбишако, будь ласка, йди вже. Я хотів би залишитися на самоті.
+What are you doing?! Just because you helped me doesn't mean you can treat me this way.|Що ти робиш?! Те, що ти мені допоміг, не означає, що ти можеш так до мене ставитися.
+In your current state. I can only assume that you have found what you were looking for.|З огляду на твоє теперішнє становище, можу лише припустити, що ти знайшов те, чого шукав.
+Why would you do that to me?! I don't understand you, <PlayerName>.|Навіщо ти це мені робиш? Я тебе не розумію, <PlayerName>.
+Please stop! I beg you. I don't... understand your motivation...|Благаю, зупинись! Я не... розумію твою мотивацію...
+I can only think that you somehow find me pleasant to listen to.|У мене складається враження, що тобі чомусь приємно мене слухати.
+Do you have something new, or have you come to just stare at me?|У тебе є щось новеньке, чи ти просто прийшов повитріщатися на мене?
+Your company is welcome little creature, but please do not stay.|Радий твоїй компанії, маленька істота, але прошу, не залишайся.
+Why?! Why would you?? Please, I have so much more I need to do, still...|Чому?! Навіщо тобі це? Будь ласка, мені й досі стільки всього потрібно зробити...
+Thank you for visiting me, but I'm afraid there is nothing here for you.|Дякую, що відвідуєш мене, але, боюся, для тебе тут нічого немає.
+Despite some power to my facility being restored, those are still crucial to my survival!|Попри те, що енергопостачання мого закладу частково відновлено, вони все ще критично важливі для мого виживання!
+Your intention was to help me, was it not? Then please don't play with those!|Твій намір був допомогти мені, чи не так? Тоді, будь ласка, не грайся з ними!
+This is no time for games little messenger. Hurry now, before it is too late!|Зараз не час гратися. Рушай-но, поки ще не пізно!
+Those aren't toys, <PlayerName>. I cannot trust anyone with them.|Це не іграшки, <PlayerName>. Я не можу нікому їх довіряти.
+Stay as long as you'd like. But not too long.|Залишайся стільки, скільки заманеться. Але не надто довго.
+Have you found something else for me to read?|Знайшов ще щось мені почитати?
+It is nice to see you again little messenger!|Приємо знову тебе бачити, маленький посланцю!
+This chamber is not very well insulated from the cold.|Ця камера не найкращим чином ізольована від холоду.
+I do enjoy the company though. You and your family are always welcome here.|Хоча, мені приємна компанія. Тобі й твоїй родині тут завжди раді.
+It's a piece of sharpened rebar... What is it you want to know?<LINE>I don't wish to offend, but you seem too frail to use this effectively.|Це — шмат загостреної арматури... Що ти хочеш про нього дізнатися? Не хочу<LINE>образити, але ти здаєшся заслабким, щоб ефективно ним користуватися.
+Unfortunately, my operations are encoded with a restriction that prevents<LINE>me from carrying out violent actions against my own citizens.|На жаль, у мої дії закодовано заборону, що не дозволяє мені вдаватися<LINE>до насильницьких вчинків стосовно моїх власних громадян.
+You've returned! I thought you were leaving. Allow me to continue...|Повернувся! А я вже думала, ти збирався йти геть. Дозволь продовжити...
+Ah, nevermind, let me finish our conversation.|Ну гаразд, давай закінчімо нашу розмову.
+Now, please leave. I would prefer to be alone.|А тепер, будь ласка, йди. Я волів би залишитися на самоті.
+Please do not take advantage of this. I do not have the patience for your continued presence here.|Будь ласка, не користуйся цим. Мені не вистачить терпіння зносити твою подальшу присутність тут.
+I'm returning to my work. Unless you have anything productive<LINE>for me, I have nothing further to say to you.|Я повертаюся до своєї роботи. Якщо у тебе немає чогось продуктивнішого<LINE>для мене, то мені нема чого ще тобі сказати.
+Oh, it's you again? I had told you to leave and never return.|О, то знов ти? Я казав тобі йти й більше не повертатися.
+Leave immediately and don't come back. And take THEM with you!|Негайно йди й не повертайся. І забери ЇХ з собою!
+Ah, you've returned. You know that I care very little for the creatures that wander through my facility.|А, то ти повернувся. Як ти знаєш, мене мало цікавлять істоти, що блукають моїм закладом.
+For your own sake, I hope it was worth your struggle.|Заради тебе самого, сподіваюся, воно було того варте.
+For what reason do you visit so often? There is nothing more I can do for you.|З якої причини ти так часто відвідуєш мене? Нічого більшого тобі зробити я не можу.
+I have nothing for you here little messenger. Please, I have little time left.|У мене нічого для тебе немає, бідолахо. Будь ласка, мені недовго лишилося.
+Why did you send the messenger here again? Please leave, I cannot afford any further<LINE>distractions; I am the only one who can fix this now. I trust that you understand me...|Нащо ти знову вислав сюди посланця? Будь ласка, залиш мене у спокої, я не можу собі дозволити надалі відволікатися; Я єдиний, хто тепер може це виправити. Певен, ти зрозумієш.
+How did it even manage to do that?...|Як у неї взагалі це вдалося?...
+...Nothing here... Nothing... left...|...Тут нічого... Нічого... не залишилося...
+I would appreciate if you would not eat those. My umbilical will keep me conscious, but<LINE>every neuron lost is a piece of me lost as well...|Був би тобі вдячний, якби ти їх не їв. Мій сполучний кабель утримає мене при свідомості,<LINE>але кожен втрачений нейрон — це також втрачена частинка мого Я...
+Why have you returned? Do you have a death wish? I have nothing<LINE>left to give you... please leave, for your own sake.|Чому ти повернувся? Тобі померти закортіло? Мені нічого не залишилося<LINE>тобі запропонувати... будь ласка, йди, заради свого ж блага.
+You should not be here. This facility is in a constant state of decay.<LINE>Nothing in here is hospitable to the normal definition of life.|Ти не повинен бути тут. Цей заклад перебуває в постійному стані занепаду.<LINE>Нічого тут не придатне для типового визначення життя.
+I used to be furious at the idea of creatures crawling through my superstructure.<LINE>However, I am actually grateful for this rare opportunity to not be alone.|Колись мене бісила ідея того, що істоти на кшталт тебе нишпорять моєю суперструктурою.<LINE>Проте, я насправді вдячний такій рідкісній можливості поспілкуватися.
+This easter egg was inspired by the original Moar Slugcats Dating Sim mod, but has no affiliation with the original creators.|Ця пасхалка була натхнена оригінальним модом More Slugcats Dating Sim, але не має відношення до первісних авторів.

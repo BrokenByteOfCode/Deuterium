@@ -1,0 +1,1351 @@
+0THAI|ТАЙСЬКА
+Monk|Чернець
+AUTO|АВТОМ.
+INFO|ІНФО
+EXIT|ВИХІД
+Run!|Біжіть!
+Jump|Стрибнути
+Move|Рух
+Left|Вліво
+Down|Вниз
+View|Перегляд
+Food|Їжа
+EDIT|РЕДАГУВАТИ
+PLAY|ГРАТИ
+BACK|НАЗАД
+NEXT|НАСТУПНИЙ
+You!|Ти!
+You.|Ти.
+TRADITIONAL CHINESE|ТРАДИЦІЙНА КИТАЙСЬКА
+Fixed campaign seed|Фіксований сід кампанії
+watcher-description|Розширення, що додає нову кампанію: Спостерігача. У цьому доповненні є нові регіони, істоти, механіки, предмети, понад 150 нових музикальних треків і багато чого іншого.
+backup_info_loading|Завантажується інформація слоту збереження...
+backup_info_no_data|Цей слот збереження не містить жодних сюжетних даних.
+backups_description|Переглядайте, створюйте або відновлюйте заздалегідь збережені бекапи даних.
+save_file_corrupted|Сталася помилка під час спроби прочитати або ініціалізувати файл збереження. <LINE>З метою захисту ваших збережених даних запуск гри було зупинено. <LINE>Зверніться до служби підтримки Akupara Games із зазначенням наступного коду помилки. <LINE><LINE>КОД ПОМИЛКИ: {ERROR}<LINE><LINE>Чи бажаєте ви повторити спробу завантаження файлу збереження?
+objecttype-PuffBall|Споровик
+objecttype-WaterNut|Бульбашкоплід
+objecttype-Mushroom|Гриб
+creaturetype-Spider|Павук
+creaturetype-BigEel|Левіафан
+creaturetype-EggBug|Яйцежук
+The Monk-linebreaks|Чернець
+Speedrun Validation|Валідація спідранів
+switch_controls_map|Клавіша R
+Showing level names|Показувати тільки назви рівнів
+ps4_region_map_help|Натисніть R1, щоб переглянути регіональну мапу
+Successful cycles :|Вдалих циклів:
+Helped Five Pebbles|Допомогли П'яти Галькам
+New arenas unlocked|Розблоковано нові арени
+mod_menu_apply_mods|Застосовуються зміни модів, будь ласка, почекайте...
+mod_menu_enable_all|Увімкнути всі моди
+Creating index maps|Створення індекс-мап
+OpDragger_MouseTuto|Утримуйте клавішею миші та тягніть вгору або вниз для налаштування величини.
+MenuModStat_MapTuto|Утримуйте <Button> щоб перевірити керування
+Loading screen tips|Підказки на екрані завантаження
+Hunter Bonus Cycles|Бонусні цикли Мисливця
+Visual breath meter|Візуальний лічильник дихання
+Scavenger headshots|Влучання в голови сміттярів
+NONE (User Defined)|ЖОДНИЙ (Визначений користувачем)
+rwremix-description|Велике розмаїття налаштувань особливостей доступності та особливостей, доданих на запит спільноти, серед яких як і нові механіки ґеймплею, так і бонусні функції. Користуйтеся екраном кастомізації, щоб вмикати/вимикати окремі опції.
+Hello <PlayerName>.|Привіт, <PlayerName>.
+still, very... bad.|все ще, дуже... погано.
+I will take a look.|Зараз подивлюся.
+There you go again.|Знову ти за своє.
+again... leaving...|знову... йдеш...
+SIMPLIFIED CHINESE|СПРОЩЕНА КИТАЙСЬКА
+No Ringing in Ears|Без дзвону в вухах
+remix_game_version|Версія гри була оновлена. Вам потрібно буде застосувати ваші моди в меню Remix.
+ROUNDS SESSION-ru2|РАУНДИ НА СЕСІЮ
+objecttype-SeedCob|Попкорн
+objecttype-Lantern|Ліхтар
+objecttype-FlyLure|Кажаняча м'ята
+creaturetype-Leech|П'явка
+creaturetype-Snail|Равлик
+creaturetype-Hazer|Затемнювач
+Industrial Complex|Промисловий Комплекс
+Scavenger Merchant|Торговець Сміттярів
+Path of aggression|Шлях агресії
+Catch and eat them|Впіймайте та з'їжте їх.
+Configure controls|Налаштувати керування
+No players joined!|Жоден гравець не приєднався!
+Start new playlist|Розпочати нову чергу
+minutes until rain|хв. до дощу
+mod_menu_next_page|Переглянути наступну сторінку встановлених модів
+mod_menu_prev_page|Переглянути попередню сторінку встановлених модів
+mod_menu_configure|Змінити конфігурації й опції обраного мода
+OpUpdown_MouseTuto|Клацніть та наберіть числа, використовуйте стрілки або коліщатко прокрутки для налаштування
+Dialog pauses rain|Діалог призупиняє дощ
+Lizard spear pulls|Витягування ящерами списів
+Slow Motion Factor|Фактор сповільнення
+remix_first_launch|Додатковий контент та конфігурації доступні через меню РЕМІКСУ. Використовуйте РЕМІКС, щоб додавати, змінювати або налаштовувати контент, доступний у вашій грі Rain World.
+remix_dlc_redirect|Натисніть на контент, щоб перейти на сторінку магазину та дізнатися більше.
+How have you been?|Як справи?
+You're here again.|Ти знову тут.
+...you...killed...|...ти... вбив...
+Yet another thing?|Ще щось?
+Yet again leaving.|І знову йдеш.
+Yes, there you go.|Так, от і все.
+As I was saying...|Як я вже казала...
+Stay! ... Still...|...Постривай! ...
+I am... too tired.|Я... надто втомилася.
+Disable Cosmetic Ripples|Вимкнути косметичні брижі
+save_file_error_continue|Продовження може вплинути на можливість збереження гри або призвести до втрати збережених даних. Дійсно продовжувати?
+objecttype-ScavengerBomb|Бомба
+creaturetype-GreenLizard|Зелений Ящір
+creaturetype-WhiteLizard|Білий Ящір
+creaturetype-BlackLizard|Чорний Ящір
+creaturetype-GarbageWorm|Сміттєвик
+creaturetype-TempleGuard|Вартовий
+creaturetype-VultureGrub|Личинка Стерв'ятника
+creaturetype-KingVulture|Королівський Стерв'ятник
+Predator has become prey|Хижак став здобиччю
+The Chieftain-linebreaks|Отаман
+Here is a strange energy|Тут дивна енергетика
+switch_pause_help_pickup|Натисніть, щоб підняти предмети
+Change screen resolution|Змінити роздільну здатність екрану
+Arena mode music volume:|Гучність музики арени:
+switch_controls_movement|Лівий джойстик
+switch_controls_hold_map|Утримувати клавішу R
+Showing level thumbnails|Показувати мініатюри рівнів
+ps4_fast_travel_map_help|Натисніть R1, щоб обрати притулок, з якого хочете продовжити
+ps4_save_progress_failed|Помилка при зберіганні даних.
+ps4_load_progress_failed|Дані збереження прогресу пошкоджені і будуть видалені.
+mod_menu_load_order_down|Зливаючи зміни модів, застосовуйте цей мод раніше за інші. Таким чином можна розв'язати певні конфлікти між модами.
+OpComboBox_MouseOpenTuto|Клацніть, щоб відкрити список
+OpScrollBox_NonMouseTuto|Натисніть ПІДТВЕРДИТИ й скористайтеся джойстиком, щоб побачити більше
+OpSimpleButton_MouseTuto|Натисніть мишею, щоб запустити
+ModdingMenu_ControlThrow|Назад / Скасувати
+MenuModStat_ModsDownpour|Готових модів:
+Keep snails out of pipes|Утримання Равликів осторонь труб
+Additional lizard voices|Додаткові голоси ящерів
+Splashes alert creatures|Хлюпотіння привертає увагу істот
+Disable shelter failures|Вимкнути збої притулків
+Unlock all sandbox items|Розблокувати всі предмети Пісочниці
+moreslugcats-description|Розширення з п'ятьма новими грабельними кампаніями, унікальними за своїм місцем у хронології. У цьому доповненні є нові регіони, істоти, предмети, музика, альтернативні кінцівки, нові ігрові режими та багато чого іншого.
+...is this reaching you?|...чи сягає це тебе?
+Oh, <PlayerName>. Hello!|О, <PlayerName>. Привіт!
+Oh, <PlayerName>. Hello.|О, <PlayerName>. Привіт.
+Oh... I will look at it.|О... Зараз подивлюся, що це.
+Oh... I will take a look|О... Зараз подивлюся.
+...rain... coming... Go!|...дощ... йде... Біжи!
+...please... be still...|прошу... не рухайся...
+Disable cosmetic ripple effects that appear in the vicinity of some warp locations|Вимкнути косметичні ефекти брижів, що з'являються поблизу деяких варп-локацій.
+I do enjoy the company though. You're welcome to stay a while, quiet little thing.|Хоча, мені приємна компанія. Можеш ненадовго залишитися, тиха маленька істото.
+Disable Player Ripple Trail|Вимкнути брижі
+Complete the Hunter passage|Отримайте перехід Мисливця
+Complete the Outlaw passage|Отримайте перехід Вбивці
+Complete the Friend passage|Отримайте перехід Друга
+Complete the Martyr passage|Отримайте перехід Мученика
+Complete the Mother passage|Отримайте перехід Матері
+objecttype-FirecrackerPlant|Запальний кущ
+creaturetype-SmallCentipede|Мала багатоніжка
+Four is enough to hibernate|Для сплячки достатньо чотирьох
+invert_x_description_switch|Інвертувати горизонтальну вісь для аналогових джойстиків.
+invert_y_description_switch|Інвертувати вертикальну вісь для аналогових джойстиків.
+Player <X> will use gamepad|Гравець <X> використовуватиме ґеймпад
+Player vs player deathmatch|Гравці б'ються насмерть
+Play each level three times|Зіграти кожен рівень тричі
+switch_fast_travel_map_help|Натисніть R, щоб обрати притулок, з якого хочете продовжити
+OpComboBox_NonMouseOpenTuto|Натисніть ПІДТВЕРДИТИ, щоб відкрити список
+OpKeyBinder_MouseSelectTuto|Клацніть, щоб змінити прив'язання клавіш
+OpSlider_NonMouseAdjustTuto|Налаштуйте за допомогою джойстика, натисніть ПІДТВЕРДИТИ, щоб застосувати
+OpColorPicker_MouseTypeTuto|Наберіть hex-код клавіатурою, щоб отримати бажаний колір
+OpSimpleButton_NonMouseTuto|Натисніть ПІДТВЕРДИТИ, щоб активувати
+MenuModStat_ConsoleExplain0|Це меню використовується для активування та конфігурування контенту Remix, щоб грати у Rain World по-новому.
+MenuModList_ListButton_Stat|Відображає статистику встановлених модів
+MenuModList_ListSlider_Desc|Утримуйте клавішею миші на колі і перетягуйте вгору/вниз, щоб прогортати список модів
+MenuModList_SearchBox_Empty|Друкуйте для пошуку...
+MenuModList_SearchBox_Query|Пошуковий запит:
+Connector_ResetConfig_Alert|Налатшування моду <ModName> відновлені за замовчуванням
+Arena creatures cannot flee|Створіння в арені не можуть втекти
+Monk extra light assistance|Додаткове підсвітлення Ченця
+Zero-gravity spear throwing|Жбурляння списів у невагомості
+Unlock all arena characters|Розблокувати всіх персонажів Арени
+Oh, it's you, <PlayerName>.|О, це ти, <PlayerName>.
+Please... don't do... that.|Будь ласка... не роби... цього.
+What is that, <PlayerName>?|Що це, <PlayerName>?
+Want it back, <PlayerName>?|Хочеш забрати це назад, <PlayerName>?
+Why should I tolerate this?|Чому я маю це терпіти?
+As I tried to say to you...|Як я вже намагалася тобі сказати...
+Disable the visual trail that follows the player once achieving higher ripple attunement|Вимкнути наочний слід, який супроводжує гравця після досягнення вищого рівня злагоди брижів
+You cannot use PlayStation™Network features in this application due to age restrictions.|Ви не можете використувати PlayStation™Network у цьому застосунку через вікові обмеження.
+The following cheats unlock content you would normally unlock via finding unlock tokens.|Наступні чити розблоковують контент, який зазвичай<LINE>отримується знаходженням розблокувальних токенів.
+Disable Lightning Flashes|Вимкнути спалахи блискавки
+backup_create_description|Збережіть поточні вмісти вашого збереження у якості нового бекапу.
+backup_delete_description|Видалити обраний бекап зі списку бекап-збережень.
+mod_menu_restoring_backup|Спроба відновлення даних збереження з бекапу...
+ps4_load_save_slot_failed|Дані слоту збереження були пошкоджені і будуть видалені.
+Complete the Monk passage|Отримайте перехід Ченця
+Find a way to communicate|Знайдіть засіб порозумітися
+creaturetype-YellowLizard|Жовтий Ящір
+creaturetype-LanternMouse|Сяймиша
+creaturetype-RedCentipede|Червона багатоніжка
+One need not travel alone|Не треба подорожувати наодинці
+You are hungry, find food|Ви зголодніли, знайдіть їжу.
+invert_x_description_xbox|Інвертувати горизонтальну вісь для аналогових джойстиків.
+invert_y_description_xbox|Інвертувати вертикальну вісь для аналогових джойстиків.
+Switch to fullscreen mode|Ввімкнути режим на весь екран
+OpDragger_NonMouseUseTuto|Налаштуйте за допомогою джойстик, натисніть ПІДТВЕРДИТИ, щоб затвердити величину
+OpKeyBinder_MouseBindTuto|Натисніть клавішу, щоб прив'язати (ESC щоб відв'язати)
+OpSlider_NonMouseGrabTuto|Натисніть ПІДТВЕРДИТИ, щоб взаємодіяти
+OpHoldButton_NonMouseTuto|Утримуйте ПІДТВЕРДИТИ для активації
+MenuModStat_ModsInterface|Увімкнених модів з користувацьким інтерфейсом Remix: <Number1> (Конфігурабельних: <Number2>)
+Show underwater shortcuts|Відображання підводних проходів
+Centipede pipe protection|Труби захищають від Багатоніжок
+Threat music visual pulse|Візуальна пульсація музики загрози
+Disable precycle flooding|Вимкнути завчасне затоплення
+Unlock all safari regions|Розблокувати всі регіони режиму Сафарі
+ps4_expedition_slot_title|Експедиція Rain World
+ps4_expedition_core_title|Основа Експедиції Rain World
+...thank you... better...|...дякую... так краще...
+Tried to say... to you...|Намагалася... тобі... сказати...
+Disable fullscreen flash and darkening effect that occurs when lightning strikes|Вимкнути повноекранні спалахи та ефекти затемнення, що виникають під час удару блискавки
+Reduce Passive Rain Intensity|Зменшити інтенсивність пасивного дощу
+Complete the Survivor passage|Отримайте перехід Вцілілого
+Complete the Wanderer passage|Отримайте перехід Мандрівника
+Five Pebbles (Memory Conflux)|П'ять Гальок (Відсік Пам'яті)
+Hold to eat / swallow objects|Утримуйте, щоб з'їсти / заковтнути предмети
+Configure controls for player|Налаштувати керування гравця
+Standard items spawn on level|Звичайне розташування предметів на рівні
+ps4_save_progress_description|Дані збереження прогресу Rain World {0}
+OpColorPicker_NonMouseSliders|Рухай джойстиком ВГОРУ/ВНИЗ, щоб обрати, ВЛІВО/ВПРАВО, щоб налаштувати. Натисніть ПІДТВЕРДИТИ, щоб застосувати
+OpScrollBox_MouseTutoSlidebar|Скористуйтеся коліщатком або смугою прокрутки, щоб побачити більше
+ConfigMenuTab_BackButton_Desc|Повернутися до головного меню
+ConfigMenuTab_SaveButton_Desc|Зберегти поточні конфігурації модів та повернутися
+MenuModList_ModButton_Display|Показати <Mod>
+MenuModList_ListButton_SwapUp|Натисніть, щоб завантажувати цей мод пізніше за моди нагорі
+MenuModList_ListButton_SwapDw|Натисніть, щоб завантажувати цей мод раніше за моди внизу
+MenuModList_ListButton_Expand|Розширте, щоб бачити мініатюри у списку модів
+No stealing Hunter back-spear|Заборона цупити списи зі спини Мисливця
+Scavenger kill squad leniency|Поблажливість вбивчих зграй сміттярів
+Hide rain timer in safe areas|Приховування відліку дощу в безпеці
+No randomized cycle durations|Невипадкова тривалість циклів
+Rivulet Rain Timer Multiplier|Множник відліку дощу Струмка
+Unlock the Outer Expanse gate|Розблокувати Зовнішні Простори
+Steam manager not initialized|Менеджер Steam не ініціалізовано
+This one again, <PlayerName>?|Знову ту саму, <PlayerName>?
+Reduce the intensity of rain in regions where it appears as a cosmetic effect all cycle long|Зменшити інтенсивність дощу в регіонах, де він проявляється як косметичний ефект протягом усього циклу
+Reduce Other Effects Density|Зменшити щільність інших ефектів
+Everything comes full circle|Все робить повне коло
+Great strides have been made|Досягнуто значних успіхів
+Complete the Scholar passage|Отримайте перехід Ученого
+Complete the Pilgrim passage|Отримайте перехід Паломника
+creaturetype-BrotherLongLegs|Брат Довгоніг
+creaturetype-SmallNeedleWorm|Дитинча Локшинниці
+Press any button to continue|Натисніть будь-яку клавішу, щоб продовжити
+A Bell, Eighteen Amber Beads|Дзвоник, Вісімнадцять Бурштинових Намистин
+Two Sprouts, Twelve Brackets|Два Паростки, Дванадцять Підпор
+The Dragon Slayer-linebreaks|Драконоборець
+Three is enough to hibernate|Для сплячки достатньо трьох
+Rain is coming! Find shelter|Дощ наближається! Знайдіть притулок
+Score required to exit level|Потрібний для втечі з рівня рахунок
+Always allow players to exit|Завжди дозволяє гравцям втекти з рівня
+ps4_save_options_description|Дані збереження опцій Rain World
+Reloading player progression|Перезавантаження прогресу гравця
+OpKeyBinder_NonMouseBindTuto|Натисніть клавішу, щоб прив'язати (ПАУЗА, щоб відв'язати)
+MenuModStat_ModTargetVersion|Цільова версія гри: <TargetVersion> (Поточна версія гри: <GameVersion>)
+Artificer Explosion Capacity|Вибухова потужність Техніка
+Unlock all sandbox creatures|Розблокувати всіх істот Пісочниці
+Perhaps... I saw you before?|Можливо... я вже бачила тебе колись?
+Oh... Should I look at that?|О... Хочеш, щоби я на це подивилася?
+A gift for me, <PlayerName>?|Чи це подарунок мені, <PlayerName>?
+Oh... Never mind, I suppose.|О... ну гаразд.
+I will...not speak to you...|...я більше... з тобою не розмовлятиму...
+Reduce the density and visibility of other effects like wind trails, stardust, floating debris, etc.|Зменшити щільність та помітність інших ефектів, таких як сліди вітру, зоряний пил, летючі уламки тощо.
+Heavy VFX that may not be suited to those with sensitivity to flashing lights or prone to eye strain|Важкі візуальні ефекти, які можуть не підходити людям, чутливим до миготливого світла або схильним до перенапруження очей
+Splashing in water can attract the attention of nearby creatures that hear the noise of the splashes|Хлюпотіння в воді може привернути увагу навколишніх істот, які почули його шум
+Settings designed to make the game significantly easier, but may weaken the overall game experience.|Налаштування, пристосовані для суттєвого полегшення гри, за рахунок можливо послабленого досвіду гри загалом.
+!\"#$%&'()*,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ\\_abcdefghijklmnopqrstuvwxyzÁáÉéÍíÑñÓóÚú®|!\"#$%&'()*,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ\\_abcdefghijklmnopqrstuvwxyzÁáÉéÍíÑñÓóÚú®
+Reduce Floating Particles Density|Зменшити щільність летючих частинок
+Droplets upon Five Large Droplets|Краплини на П'ятьох Великих Краплинах
+Game Over - Press VIEW to restart|Гру закінчено ― натисніть клавішу ПЕРЕГЛЯД для перезапуску.
+3 - CHOOSE PRESET OR BIND BUTTONS|3 - ОБЕРІТЬ ШАБЛОН АБО НАЛАШТУЙТЕ КЕРУВАННЯ
+PICK UP button - Select shelter_1|Клавіша ВЗЯТИ — Обрати притулок
+PICK UP button - Select shelter_2|Клавіша «Квадрат» — Обрати притулок
+PICK UP button - Select shelter_3|Клавіша Y —  Обрати притулок
+PICK UP button - Select shelter_4|Клавіша ВЛІВО — Обрати притулок
+PICK UP button - Select shelter_5|Клавіша B —  Обрати притулок
+OpKeyBinder_ErrorConflictOtherMod|Клавіша конфліктує з <AnotherModID>
+OpKeyBinder_MouseJoystickBindTuto|Натисніть клавішу, щоб прив'язати (ESC щоб відв'язати, CTRL + Num щоб встановити номер контролеру)
+ConfigContainer_AlertCopyCosmetic|Скопійовано <Text> до буферу обміну
+ConfigMenuTab_BackHoldButton_Desc|Повернутися до головного меню (без застосування модів!)
+Passage progress without Survivor|Прогрес переходів без Вцілілого
+I will not speak to you any more.|Я більше з тобою не розмовлятиму.
+Reduce the density of floating/falling particle effects like rot spores, Aether Ridge salt flakes, etc.|Зменшити щільність ефектів летючих/падаючих частинок, таких як спори Гнилі, крихти солі в Ефірному Кряжі тощо.
+Less flashing lights, and the density of cosmetic visual effects is reduced to make gameplay more clear|Менше миготливих вогнів, щільність косметичних візуальних ефектів знижена, щоб зробити ігролад більш чітким.
+Adds additional deer behavior, like being able to influence their behavior by wiggling in their antlers|Змінює поведінку дощових оленей і додає додаткові механіки, щоби впливати на їхні дії.
+You better go, <PlayerName>! I will be fine.<LINE>It's not pleasant, but I have been through it before.|Тобі краще йти, <PlayerName>! Зі мною все буде добре.<LINE>Це неприємно, але я вже через це проходила.
+Disable Fetid Glen Rainbow Grain|Вимкнути райдужну зернистість у Затхлій Долині
+Followed your parental instincts|Ви прислухалися до батьківських інстинктів
+Player <X> will use the keyboard|Гравець <X> використовуватиме клавіатуру
+switch_controls_singlejoycon_map|Клавіша SR
+Playing levels in selected order|Відтворення рівнів в обраному порядку
+OpKeyBinder_ErrorConflictVanilla|Клавіша конфліктує з налаштуваннями керування за замовчуванням
+OpKeyBinder_ErrorConflictCurrMod|Клавіша [<ConflictButton>] вже використовується
+OpColorPicker_NonMouseModeSelect|Натисніть ПІДТВЕРДИТИ, щоб обрати режим
+ConfigMenuTab_RevertButton_Label|НАЗАД
+Scavenger corpses have max karma|Трупи сміттярів мають максимум карми
+Unlock Developer Commentary mode|Розблокувати коментарі розробників
+Please... thiss all I have left.|Благаю... це все, що в мене залишилося.
+Ah... <PlayerName>, you're back!|А... <PlayerName>, ти повернувся!
+Ah... <PlayerName>, you're back.|А... <PlayerName>, ти повернувся.
+NO! I will...not speak to you...|НІ! Я не... розмовлятиму з тобою...
+A new gift for me, <PlayerName>?|Чи це новий подарунок мені, <PlayerName>?
+<CapPlayerName>, this one again?|<CapPlayerName>, знову ту саму?
+Yes, take it and leave me alone.|Так, забери це й залиш мене вже в спокої.
+I think the rain is approaching.|Здається, наближається дощ.
+...leaving now? Don't... return.|...вже йдеш? Не... повертайся.
+Remove the grainy effect that appears in the background of Fetid Glen areas|Усунути зернистий ефект, що з'являється на тлі місцин Затхлої Долини
+Go explore! There is food and shelter to be found, but beware of predators.|Вирушайте досліджувати! Там знайдеться їжа та притулки, але остерігайтеся хижаків.
+Prevents underwater shortcut symbols from being obscured by the water layer|Заважає приховуванню символів проходів шаром води
+Changes the amount of bonus cycles Hunter can receive during their campaign|Змінює кількість бонусних циклів, які може отримати Мисливець протягом своєї кампанії
+The current session playtime will always be visible as a UI element in-game|Ваш загальний внутрішньоігровий час на персонажі відображатиметься як елемент користувацького інтерфейсу протягом його кампанії.
+This option significantly decreases the difficulty of Artificer's campaign.|Ця опція суттєво понижує складність кампанії Техніка.
+Your account is in read-only mode due to a recent password or email change.|Ваш обліковий запис в режимі тільки для читання через нещодавню зміну пароля чи поштової адреси.
+These settings adjust the density of VFX for visual accessibility needs.|Ці налаштування регулюють щільність візуальних ефектів для потреб візуальної доступності.
+Show tutorial messages for Watcher's mechanics during the story campaign|Відображувати навчальні повідомлення механік Спотерігача в його кампанії
+Stops Scavengers from being able to steal the spear off of Hunter's back|Позбравляє сміттярів можливості цупити списи зі спини Мисливця.
+Allow throwing spears upwards during a backflip in addition to downwards|Додаткові опції напрямів і засобів жбурляння речей за деяких обставин
+REDUCED|ЗНИЖЕНИЙ
+MINIMAL|МІНІМАЛЬНИЙ
+Special|Спеціальна
+RESTORE|ВІДНОВИТИ
+BACKUPS|БЕКАПИ
+No data|Нема даних
+Closure|Завершення
+REGIONS|РЕГІОНИ
+OPTIONS|ОПЦІЇ
+The Leg|Опора
+CREDITS|ТИТРИ
+ENGLISH|АНГЛІЙСЬКА
+ITALIAN|ІТАЛІЙСЬКА
+SPANISH|ІСПАНСЬКА
+RUSSIAN|РОСІЙСЬКА
+CHINESE|КИТАЙСЬКА
+GAMEPAD|ҐЕЙМПАД
+Hold R1|Утримувати R1
+Options|OPTIONS
+Hold RB|Утримувати RB
+minutes|хв.
+No rain|Без дощу
+Survive|Виживання
+Winner!|Переможець!
+RESTART|ПЕРЕЗАПУСТИТИ
+PASSAGE|ПЕРЕХІД
+Quits :|Виходів:
+Ranking|Рейтинг
+Profile|Профіль
+In Game|У Грі
+In Menu|У Меню
+Version|Версія
+General|Загальне
+Presets|Шаблони
+CLASSIC|КЛАСИКА
+RELAXED|НЕВИМУШЕНИЙ
+Assists|Допомога
+Failure|Несправність
+...you.|...ти.
+Please!|Будь ласка!
+Some cosmetic visual effects are disabled entirely, and many others are significantly reduced|Деякі косметичні візуальні ефекти повністю вимкнені, а чимало інших суттєво понижено
+Close Map Button|Клавіша Мапа — Закрити мапу
+Enable tutorials|Ввімкнути навчання
+Follow the guide|Слідуйте за вказівками
+objecttype-Spear|Спис
+creaturetype-Fly|Кажан
+Select save slot|Обрати слот збереження
+Movement Buttons|Клавіші Руху
+Shuffling levels|Перетасування рівнів
+Playing in order|Відтворення рівнів по порядку
+rounds per level|раундів на рівень
+Random creatures|Випадкові істоти
+Trophy Collector|Збирач Трофеїв
+Press ? to start|Натисніть ?, щоб почати
+mod_menu_restart|Ввімкнені моди потребують перезапуску гри. Натисніть продовжити і запустіть гру знову.
+Applying Changes|Застосування змін
+Vulture darkness|Стерв'ятники в темряві
+Vanilla exploits|Ванільні експлойти
+Aggressive Saint|Агресивний Святий
+Gameplay Assists|Ігроладна допомога
+Generic failure.|Загальна несправність.
+remix_dlc_launch|Виявлено нове доповнення! Встановлені доповнення можна знайти та активувати в меню РЕМІКСУ.
+remix_dlc_locked|Для активації цього контенту необхідно придбати додаткове доповнення.
+...yes... leave.|...так... йди.
+You... are back.|Ти... повернувся.
+Little tormentor|Маленький мучителю
+Unlock Hunter campaign|Розблокувати кампанію Мисливця
+backup_restore_confirm|ДАНІ ПОТОЧНОГО ЗБЕРЕЖЕННЯ БУДУТЬ ВИЛУЧЕНІ!<LINE><LINE>Вибирання відновлення перезапише дані УСІХ слотів збережень вмістом цього бекапу.<LINE>Ця дія невиправна та незворотня.<LINE><LINE>Ви впевнені, що хочете перезаписати дані поточного збереження даними від {X}?
+backup_restore_success|Дані збереження з {X} були відновлені.
+backup_info_disclaimer|(Зображені тут дані залежать від наразі встановлених модів.<LINE>Тут може бути додаткова інформація з модів, які зараз вимкнені)
+A final charitable act|Останній благодійний вчинок
+Path of self-sacrifice|Шлях самопожертви
+objecttype-VultureMask|Маска Стерв'ятника
+objecttype-DangleFruit|Сине-фрукт
+objecttype-KarmaFlower|Кармоцвіт
+objecttype-BubbleGrass|Бульбашковик
+creaturetype-RedLizard|Червоний Ящір
+creaturetype-PoleMimic|Жердинник
+creaturetype-MirosBird|Лезоптиця
+creaturetype-Centipede|Багатоніжка
+creaturetype-Centiwing|Крилоніжка
+creaturetype-Scavenger|Сміттяр
+creaturetype-BigSpider|Великий павук
+Stronger climbing grip|Міцніший захват під час лазання
+Path of the vegetarian|Шлях вегетаріанця
+The Scholar-linebreaks|Учень
+The Journey-linebreaks|Подорож
+switch_tutorial_crouch|Коротко затисніть ВНИЗ аби присісти навпочіпки
+Tap to pick up objects|Натисніть, щоб підняти предмети
+Test your new controls|Перевірка нових налаштувань керування
+switch_controls_pickup|Клавіша Y
+switch_region_map_help|Натисніть R, щоб переглянути регіональну мапу
+Sandbox item unlocked:|Розблоковано елемент Пісочниці:
+ps4_save_options_title|Опції Rain World
+mod_menu_load_order_up|Зливаючи зміни модів, застосовуйте цей мод пізніше за інші. Таким чином можна розв'язати певні конфлікти між модами.
+OpSlider_MouseTutoHrzt|Утримуйте клавішею миші та тягніть вліво або вправо для налаштування величини.
+OpSlider_MouseTutoVrtc|Утримуйте клавішею миші та тягніть вгору або вниз для налаштування величини
+OpTextBox_NonMouseTuto|Елемент не можна модифікувати за допомогою контролера
+OpHoldButton_MouseTuto|Утримуйте мишею, щоб запустити
+ModdingMenu_ControlMap|Переглянути керування
+MenuModStat_ModsRegion|Увімкнених модів на регіони: <Number>
+MenuModList_SwapFailed|Не можна завантажити потрібний мод перед модами, від яких він залежить
+OIError_Message_Update|При роботі OptionInterface виникла помилка.
+New dynamic difficulty|Нова динамічна складність
+Legacy tongue controls|Традиційне керування язиком
+Upwards spear throwing|Додаткові траекторії жбурляння
+Quieter gates/shelters|Тихіші брами/притулки
+Faster shelter opening|Прискорене відчинення притулків
+Pull spears from walls|Витягування списів зі стін
+Unlock all collections|Розблокувати всі колекції
+expedition-description|Вирушайте в Експедицію в цьому новому складному режимі гри. Виконуйте випадкові завдання, уникаючи остаточної загибелі, і працюйте над розблокуванням нових корисних бонусів, суворих тягарів і музичних треків для програвання в Програвачі.
+Please leave me alone.|Будь ласка, залиш мене в спокої.
+That... Oh, thank you.|Це... О, дякую.
+...don't... come back.|...не... повертайся.
+Oh... You are leaving.|О... Ти йдеш.
+Good bye, I suppose...|Ну прощавай, напевно...
+Unlock Watcher arena character|Розблокувати персонажа Спостерігача в арені
+ps4_load_save_slot_load_failed|Не вдалося завантажити слот збереження. Код помилки: {ERROR}
+ps4_load_expedition_run_failed|Не вдалося завантажити поточні дані Експедиції. Код помилки: {ERROR}
+You have found another way out|Ви знайшли інший вихід
+Complete the Chieftain passage|Отримайте перехід Отамана
+Complete the game as The Saint|Пройдіть гру за Святого
+This land has become your home|Цей край став вашою домівкою
+switch_pause_help_switch_hands|Натисніть двічі, щоб перекласти предмети в руках
+Playing levels in random order|Відтворення рівнів у випадковому порядку
+OpKeyBinder_NonMouseSelectTuto|Натисніть СТРИБАТИ, щоб змінити прив'язання клавіш
+ConfigMenuTab_ApplyButton_Desc|Застосувати наразі обрані моди
+ConfigMenuTab_BackButton_Label|ВИЙТИ
+ConfigMenuTab_SaveButton_Label|ЗАСТОСУВАТИ
+ConfigMenuTab_ResetButton_Desc|Скинути поточні конфігурації модів
+No Hunter batfly auto-grabbing|Мисливець не хапає кажанів автоматично
+Disable all karma requirements|Відключення кармічних вимог
+Saint environmental protection|Захист Святого від довкілля
+mod_workshop_upload_buttondesc|Вивантажити обраний мод до Майстерні Steam
+It's you, <PlayerName>. Hello.|Це ти, <PlayerName>. Привіт.
+NO! ... no. Let it go, please.|НІ! ... ні. Відпусти його, будь ласка.
+You... brought that... for me?|Ти... приніс це... мені?
+And now you're taking it back.|А тепер ти забираєш це назад.
+Please. Be still for a moment.|Будь ласка. Почекай трішки.
+<CapPlayerName>... Never mind.|<CapPlayerName>... Ну нехай.
+Special Button|Клавіша Спеціальна
+A Helping Hand|Рука Допомоги
+mod_menu_error|Не вдалося застосувати моди через наступну помилку:
+Garbage Wastes|Сміттєзвалище
+Shaded Citadel|Затінена Цитадель
+Chimney Canopy|Димар
+Unknown Region|Невідомий Регіон
+Scavenger Toll|Застава Сміттярів
+RESET PROGRESS|СКИНУТИ ПРОГРЕС
+Input Settings|Керування
+Pick-Up Button|Клавіша Взяти
+ROUNDS SESSION|РАУНДІВ ЗА СЕСІЮ
+RESUME SESSION|ПРОДОВЖИТИ СЕСІЮ
+Clear playlist|Очистити чергу
+Eating contest|Харчове змагання
+Aggressive AI:|Агресивний ШІ:
+Change Profile|Змінити Профіль
+mod_menu_apply|Застосувати зміни до обраних модів
+Speedrun timer|Таймер спідрану
+jollycoop-name|Веселий Кооператив
+Leaving again.|Знову йдеш.
+switch_controls_singlejoyconl_special|Клавіша «Вгору»
+Something lurks amongst the clouds...|Щось чатує посеред хмар...
+Take the longer path to enlightenment|Оберіть довший шлях до вознесіння
+A significant gain, but at what cost?|Значне надбання, та якою ціною?
+Game Over - Press + Button to restart|Гру закінчено ― натисніть клавішу «+» для перезапуску.
+Game Over - Press - Button to restart|Гру закінчено ― натисніть клавішу «-» для перезапуску.
+switch_controls_singlejoycon_hold_map|Утримувати клавішу SR
+switch_controls_singlejoyconr_special|Клавіша Y
+Hold and drag to adjust score awarded|Утримуйте та перетягуйте для налаштування отримуваних балів
+ConfigContainer_AlertPasteNoncosmetic|Вставлено <Text> з буферу обміну до <ObjectName>
+MenuModList_ModButton_Enable_NonMouse|Натисніть ПІДТВЕРДИТИ, щоб увімкнути ці вмісти, скористайтеся джойстиком, утримуючи ВПРАВО, щоб змінити чергу завантаження
+Press CONTINUE to view and accept it.|Натисніть ПРОДОВЖИТИ, щоб переглянути та прийняти її.
+Thank you. I do wonder what you want.|Дякую. Мені цікаво, чого ти хочеш.
+Another thing you want me to look at?|Ще щось, що тебе цікавить?
+Would you like me to read this pearl?|Хочеш, щоб я прочитала цю перлину?
+And now you're taking it, apparently.|А тепер ти, вочевидь, забираєш це назад.
+Triangle|Клавіша «Трикутник»
+Survivor|Вцілілий
+Invert X|Інвертувати X
+Invert Y|Інвертувати Y
+Champion|Чемпіон
+NEW GAME|НОВА ГРА
+THE MONK|ЧЕРНЕЦЬ
+Exterior|Переглянути інформацію про вміст обраного бекапу.
+The Wall|Стіна
+The Monk|Чернець
+WINDOWED|У ВІКНІ
+LANGUAGE|МОВА
+JAPANESE|ЯПОНСЬКА
+KEYBOARD|КЛАВІАТУРА
+Keyboard|Клавіатура
+4 - TEST|4 - ПЕРЕВІРТЕ
+STANDARD|СТАНДАРТ
+CONTINUE|ПРОДОВЖИТИ
+Add item|Додати предмет
+Deaths :|Смертей:
+Ascended|Вознеслися
+PREVIOUS|ПОПЕРЕДНІЙ
+SaveData|Зберегти дані
+Presets:|Шаблони:
+Oh. You.|О. Ти.
+creature|звіре
+Seed the determinations of warp point destinations to create less randomness in runs|Фіксує пункти призначення точок варпів, щоб зменшити випадковість у забігах кампанії.
+Increases the amount of time before you are forced to come up for air while drowning|Збільшує тривалість часу під водою, перш ніж доводиться спливати нагору через утоплення
+Unlock Watcher campaign|Розблокувати кампанію Спостерігача
+backup_info_description|Переглянути інформацію про вміст обраного бекапу.
+mod_menu_restore_backup|Сталася помилка при спробі зчитати або запустити файл збереження. Проте на цій системі було розпізнано файл бекапу збереження.<LINE><LINE>Продовжіть, щоб почати відновлення бекапу збереження.
+Fates have been flipped|Долі змінилися
+creaturetype-PinkLizard|Рожевий Ящір
+creaturetype-BlueLizard|Блакитний Ящір
+creaturetype-Salamander|Саламандра
+creaturetype-CyanLizard|Ціановий Ящір
+Embraced by a new tribe|Прийнятий новим плем'ям
+The Survivor-linebreaks|Вцілілий
+The Wanderer-linebreaks|Мандрівник
+invert_x_description_ps|Інвертувати горизонтальну вісь для аналогових джойстиків.
+invert_y_description_ps|Інвертувати вертикальну вісь для аналогових джойстиків.
+Gamepad <X> (Not found)|Ґеймпад <X> (Не знайдено)
+switch_controls_special|Клавіша X
+No rain timer exception|Без винятку для таймера дощу
+Sandbox items unlocked:|Розблоковано елементи Пісочниці:
+ps4_save_progress_title|Прогрес Rain World {0}
+ps4_save_options_failed|Помилка при зберіганні даних опцій.
+ps4_load_options_failed|Дані збереження опцій пошкоджені і будуть видалені.
+Failed to get rankings.|Не вдалося отримати рейтинги.
+Switch to windowed mode|Увімкнути режим у вікні
+OpCheckBox_NonMouseTuto|Натисніть ПІДТВЕРДИТИ, щоб перемкнути
+OpComboBox_MouseUseTuto|Двічі клацніть по полю пошуку, щоб шукати
+OpRadioButton_MouseTuto|Клацніть, щоб обрати цю опцію
+OpTextBox_MouseTutoGrab|Клацніть, щоб почати друкувати
+OpTextBox_MouseTutoType|Використовуйте клавіатуру для друку, натисніть ENTER для застосування
+ModdingMenu_ControlJump|Обрати / Підтвердити
+ModdingMenu_ControlMove|Змінити / Налаштувати
+ModdingMenu_ControlPckp|Буфер обміну
+MenuModList_AskModApply|Спочатку натисніть ЗАСТОСУВАТИ, перш ніж їх конфігурувати
+Jetfish item protection|Захист речей від стриб
+Currently Active Preset|Активний шаблон
+mod_workshop_upload_ask|Хочете вивантажити цей мод до Майстерні Steam?
+Hello there! You again!|Привіт! Знову ти!
+Hello there. You again!|Привіт. Знову ти!
+No, please, release it!|Ні, будь ласка, відпусти його!
+That... That is for me?|Це... Це мені?
+...oh... to... save me?|...о... щоб... врятувати мене?
+Thank you so very much!|Превелике тобі дякую!
+Thank you... Sincerely.|Дякую... Щиро.
+Let's see... A pearl...|Нумо подивимося... Перлина...
+Why are you doing this?|Чому ти так робиш?
+Please don't come back.|Будь ласка, не повертайся.
+(Normally requires completing the game as Survivor or Monk to unlock)|(Зазвичай потребує проходження кампанії Вцілілого або Ченця для розблокування)
+WARNING! This will reset all of your progress except map exploration.|УВАГА! Це скине весь ваш прогрес, окрім дослідження мапи.
+Red Lizards have a tongue and can snap spears in half with their bite|Червоні мають язики й можуть розкусити списи навпіл своїм укусом
+(Normally requires finding Orange unlock tokens in the campaign maps)|(Зазвичай потребує знаходження помаранчевих розблокувальних токенів у мапах кампаній)
+The intended gameplay loop is to have to actively hunt fresh corpses.|Передбачуваний стиль гри — потреба активно полювати на свіжі трупи.
+Some of the metadata for this mod was invalid and cannot be accepted.|Частина метаданих цього моду недійсні й не можуть бути прийняті.
+Maybe this is asking too much... But, would you bring me another one?|Можливо, я прошу забагато... Але, не міг би ти принести мені ще одного?
+The rain is coming. If you stay, you will drown. Now, leave me alone.|Наближається дощ. Якщо залишишся тут, то потонеш. А тепер дай мені спокій.
+watcher-name|Спостерігач
+Restart game|Почати знову
+THE SURVIVOR|ВЦІЛІЛИЙ
+The Exterior|Корпус
+Five Pebbles|П'ять Гальок
+Subterranean|Підземелля
+The Survivor|Вцілілий
+The Wanderer|Мандрівник
+A New Friend|Новий Друг
+You are full|Ви наситилися
+Leap the gap|Перестрибніть яму
+View credits|Переглянути титри
+Pause Button|Клавіша Пауза
+Throw Button|Клавіша Кинути
+Select level|Обрати рівень
+Low wildlife|Мало істот
+Level Items:|Предмети рівня:
+Barren level|Безплідний рівень
+IT'S A DRAW!|НІЧИЯ!
+Add creature|Додати істоту
+Minor Assist|Дрібна допомога
+Major Assist|Значна допомога
+CLOSE MANUAL|ЗАКРИТИ ПОСІБНИК
+rwremix-name|Rain World Ремікс
+...please...|...благаю...
+PICK UP button - Return to regional map_1|Клавіша ВЗЯТИ — Повернутися до мапи регіону
+PICK UP button - Return to regional map_2|Клавіша «Квадрат» — Повернутися до мапи регіону
+PICK UP button - Return to regional map_3|Клавіша Y — Повернутися до мапи регіону
+PICK UP button - Return to regional map_4|Клавіша ВЛІВО — Повернутися до мапи регіону
+PICK UP button - Return to regional map_5|Клавіша B — Повернутися до мапи регіону
+ps4_load_save_slot_restore_corrupt_failed|Дані слоту збереження були пошкоджені.<LINE>Було знайдено бекап слоту збереження, але сталася помилка при спробі його відновити.
+Assign player <X> to the default controls|Призначити гравцю <X> керування за замовчуванням
+Something lurks above the chimney tops...|Щось чатує над димарями...
+These pearls are valued by the Scavengers|Ці перлини цінуються сміттярами
+Game Over - Press PAUSE BUTTON to restart|Гру закінчено ― натисніть ПАУЗА для перезапуску.
+Player <X> will use any connected gamepad|Гравець <X> використовуватиме будь-який підключений ґеймпад
+switch_single_joycon_fast_travel_map_help|Натисніть SR, щоб обрати притулок, з якого хочете продовжити
+Press the MAP button to view regional map|Натисніть клавішу МАПА, щоб переглянути мапу регіону
+Jellyfish are vulnerable to being stabbed|Медузи вразливі до влучання списів
+Are you sure you want to use this preset?|Чи ви впевнені, що хочете ввімкнути цей режим?
+Makes Saint's body immune to the elements|Робить Святого невразливим до стихій
+The operation timed out. Try again later.|Перевищено час виконання операції. Спробуйте пізніше.
+This item already exists on the workshop.|Цей контент вже існує в Майстерні.
+Previously uploaded mod has been updated.|Попередньо завантажений мод було оновлено.
+And...now you expect me to... talk again?|І... тепер ти очікуєш, що я... знову розмовлятиму?
+JUMP button - View map for region_1|Клавіша СТРИБАТИ — Переглянути мапу регіону
+JUMP button - View map for region_2|Клавіша «Хрест» — Переглянути мапу регіону
+JUMP button - View map for region_3|Клавіша B — Переглянути мапу регіону
+JUMP button - View map for region_4|Клавіша ВНИЗ — Переглянути мапу регіону
+JUMP button - View map for region_5|Клавіша A — Переглянути мапу регіону
+ps4_load_expedition_restore_corrupt|Основні дані Експедиції були пошкоджені, але вдалося відновити останній бекап даних.
+You return from scouting a new land|Ви повернулися, розвідавши нові землі
+Four Needles under Plentiful Leaves|Чотири Голки під Рясним Листям
+However, the game will not be saved|Однак при цьому гра не збережеться
+PS4 Dualshock<LINE>Controller Setup|DUALSHOCK®4<LINE>Налаштування Контролера
+Hold Pause Button or Escape to exit|Утримуйте клавішу ПАУЗА, щоб вийти
+switch_controls_singlejoyconl_pause|Клавіша -
+switch_controls_singlejoyconl_throw|Клавіша «Вправо»
+switch_controls_singlejoyconr_pause|Клавіша +
+switch_controls_singlejoyconr_throw|Клавіша X
+Press to add Player <X> to the game|Натисніть, щоб додати Гравця <X> до гри
+ps4_save_progress_failed_free_space|Помилка при зберіганні даних. Недостатньо вільного місця. Спробувати знову?
+USE UP + DOWN TO ADJUST SCREEN SIZE|КОРИСТУЙТЕСЯ ВГОРУ + ВНИЗ, ЩОБ ЗМІНИТИ РОЗМІР ЕКРАНУ
+ConfigMenuTab_RevertHoldButton_Desc|Скасувати поточні зміни до конфігурацій модів та повернутися
+MenuModList_ModButton_NameAndAuthor|<ModName> від <ModAuthor>
+MenuModList_ModButton_Disable_Mouse|Вимкнути <Mod>
+Could not find the files to upload.|Не вдалося знайти файли на вивантаження.
+Get... get away... white.... thing.|Іди... іди геть... біле... щось.
+Thank you, again. I feel wonderful.|Ще раз дякую тобі. Я почуваюся чудово.
+You want me to take a look at that?|Хочеш, щоби я на це подивилася?
+Ah, you would like me to read this?|А, хочеш щоби я її прочитала?
+This... time... don't... come back.|Цього... разу... не... повертайся.
+Hunter|Мисливець
+Random|Випадково
+CREATE|СТВОРИТИ
+DELETE|ВИДАЛИТИ
+PRESET|СКИНУТИ
+CANCEL|СКАСУВАТИ
+Depths|Глибини
+SCREEN|ЕКРАН
+FRENCH|ФРАНЦУЗЬКА
+GERMAN|НІМЕЦЬКА
+KOREAN|КОРЕЙСЬКА
+Player|Гравець
+Square|Клавіша «Квадрат»
+Circle|Клавіша «Коло»
+Arrows|Стрілки
+Paused|Призупинено.
+minute|хв.
+PLAYER|ГРАВЕЦЬ
+ALWAYS|ЗАВЖДИ
+REMOVE|ПРИБРАТИ
+Food :|Їжі:
+Time :|Часу:
+cancel|Скасувати
+Select|Обрати
+? Back|? Назад
+? play|? Грати
+Legacy|Старе
+Cheats|Чити
+MANUAL|ПОСІБНИК
+TOPICS|ТЕМИ
+UPLOAD|ВИВАНТАЖИТИ
+LEAVE.|ЙДИ.
+You...|Ти...
+Hello!|Привіт!
+Hello.|Привіт.
+Again.|Знов.
+*sigh*|*зітхання*
+friend|друже
+little|маленький
+[ Notice ]|[ Сповіщення ]
+STORY DATA|ДАНІ СЮЖЕТУ
+The Martyr|Мученик
+The Mother|Матір
+Rain World|Світ Дощу
+STATISTICS|СТАТИСТИКА
+THE HUNTER|МИСЛИВЕЦЬ
+The Hunter|Мисливець
+The Outlaw|Злочинець
+The Friend|Друг
+Pilgrimage|Паломництво
+FULLSCREEN|НА ВЕСЬ ЕКРАН
+SAVE FILES|ФАЙЛИ ЗБЕРЕЖЕННЯ
+PORTUGUESE|ПОРТУГАЛЬСЬКА
+TEST INPUT|ПЕРЕВІРИТИ
+Left Stick|Лівий джойстик
+Hold Space|Утримувати «Пробіл»
+Map Button|Клавіша Мапа
+Free food!|Безкоштовна їжа!
+Loading...|Завантаження...
+CROSS-SAVE|КРОС-ЗБЕРЕЖЕННЯ
+Load Order|Порядок завантаження
+Oh, hello!|О, привіт!
+Oh, hello.|О, привіт.
+You again.|Знову ти.
+...rain...|дощ...
+...stop...|...зупинись...
+Thank you.|Дякую.
+Issues found while loading mods!<LINE>Disabling problematic mods.<LINE>Press continue and then launch the game again.|Під час завантаження модів виникли помилки!<LINE>Проблемні моди будуть вимкнені.<LINE>Натисніть ПРОДОВЖИТИ й тоді перезапустіть гру знову.
+...you ate... me. Please go away. I won't speak... to you.<LINE>I... CAN'T speak to you... because... you ate...me...|...ти з'їв... мене. Будь ласка, забирайся геть. Я не розмовлятиму...<LINE>з тобою. Я... не МОЖУ розмовляти з тобою... бо... ти з'їв... мене...
+First you hurt me, then you come back to annoy me.<LINE>I wish I knew what was going on in that little head of yours.|Спочатку ти нехтуєш моїми почуттями, а потім повертаєшся<LINE>дратувати мене. Хотілося б знати, що коїлося у твоїй маленькій голівці.
+It's a weapon made with fire powder. Did the scavengers give this to you?<LINE>Be very careful if you have to use it!|Це зброя, зроблена з вогняного порошку. То тобі дали Сміттярі?<LINE>Будь дуже обережним, якщо тобі доведеться цим скористатися!
+Desync detected between user mod data and game mod data!<LINE>Re-sycing data.<LINE>Press continue and then launch the game again.<LINE>Disabled mods:|Розпізнана розсинхронізація між даними користувацьких модів і гри!<LINE>Повторна синхронізація даних.<LINE>Натисніть ПРОДОВЖИТИ й перезапустіть гру.<LINE>Вимкнені моди:
+Stops nearby explosions causing a ringing sound to play|Запобігає відтворенню дзвону, спричиненого вибухами поблизу
+Find the canonical ending to The Spearmaster's campaign|Знайдіть канонічну кінцівку кампанії Майстра Списа
+Assign player <X> to the default PS4 Dualshock controls|Призначити гравцю <X> керування DUALSHOCK®4 за замовчуванням
+Strange... it seems to have been used not too long ago.|Дивно... Здається, нею не так давно користувалися.
+backup_delete_confirm|Ви впевнені, що хочете видалити бекап від {X}?<LINE>Ця дія незворотня.
+backup_delete_success|Бекап від {X} був успішно видалений.
+backup_create_success|Новий бекап від {X} був створений з поточних даних вашого збереження.
+backup_restore_failed|Під час відновлення даних збереження від {X} сталася помилка. Щоб захистити дані вашого збереження, запуск гри був призупинений.<LINE><LINE>Хочете ще раз спробувати відновити дані бекапу?
+Take what isn't yours|Привластніть чуже
+Generating map images|Створюються зображення мап
+objecttype-SporePlant|Вулик
+objecttype-NSHSwarmer|Зелений нейрон
+creaturetype-SeaLeech|Морська п'явка
+creaturetype-TubeWorm|Хапальний черв'як
+creaturetype-Overseer|Наглядач
+Path of the carnivore|Шлях хижака
+The Hunter-linebreaks|Мисливець
+The Outlaw-linebreaks|Вбивця
+The Friend-linebreaks|Друг
+Sound effects volume:|Гучність звукових ефектів:
+XBox Controller Setup|Налаштування контролера XBox
+switch_controls_pause|Клавіша +
+switch_controls_throw|Клавіша A
+Add level to playlist|Додати рівень до черги
+switch_update_players|Оновити гравців
+Play each level twice|Зіграти кожен рівень двічі
+mod_menu_reapply_mods|Деякі ввімкнені моди були оновлені з останнього запуску гри. Натисніть ПРОДОВЖИТИ, щоб застосувати оновлення.
+OpUpdown_NonMouseGrab|Натисніть ПІДТВЕРДИТИ, щоб взаємодіяти
+OpScrollBox_MouseTuto|Скористуйтеся коліщатком прокрутки, щоб побачити більше
+ModdingMenu_PckpTuto0|Взаємодії з буфером обміну:
+ModdingMenu_PckpTuto1|Спочатку оберіть елемент, який можна налаштувати, клавішею СТРИБНУТИ
+ModdingMenu_PckpTuto2|утримуйте клавішу ВЗЯТИ і натисніть клавішу СТРИБНУТИ, щоб скопіювати до буферу обміну
+ModdingMenu_PckpTuto3|Утримуйте клавішу ВЗЯТИ і натисніть клавішу КИНУТИ, щоб вставити з буферу обміну
+MenuModList_DummyDesc|Базова версія Rain World
+OIError_GeneralAdvice|Помилка може бути вирішена завантаженням найновітнішої версії моду.
+No swim boost penalty|Підводні прискорення задарма
+Rain Timer Multiplier|Множник відліку Дощу
+Tweaked deer behavior|Налаштована поведінка дощових оленей
+Alternate grenade arc|Альтернативна дуга гранат
+Item stems in sandbox|Стебла предметів у Пісочниці
+Reduce screen shaking|Зменшення дрижання екрану
+Unlock all challenges|Розблокувати всі випробування
+Gathering information|Збір інформації
+jollycoop-description|Локальний кооперативний сюжет та інші режими гри для групи до 4 гравців. З друзями подорож стає ще цікавішою!
+You had your chances.|Тебе попереджали.
+Oh, you want it back?|О, хочеш забрати це назад?
+backup_restore_description|Перезапишіть дані поточного збереження вмістом обраного бекапу.
+ps4_load_expedition_failed|Дані збереження Експедиції пошкоджені і будуть видалені.
+Complete the Saint passage|Отримайте перехід Святого
+Complete the Nomad passage|Отримайте перехід Кочівника
+objecttype-SLOracleSwarmer|Нейрон
+objecttype-SSOracleSwarmer|Нейрон
+objecttype-OverseerCarcass|Око Наглядача
+creaturetype-DaddyLongLegs|Батько Довгоніг
+creaturetype-TentaclePlant|Хижа Водорость
+creaturetype-SpitterSpider|Плюйпавук
+creaturetype-BigNeedleWorm|Локшинниця
+Briefly tap DOWN to crouch|Коротко натисніть ВНИЗ аби присісти навпочіпки
+Double tap to switch hands|Натисніть двічі, щоб перекласти предмети в руках
+Player <X> is in the game!|Гравець <X> у грі!
+Remove level from playlist|Вилучити рівень з черги
+Resume unfinished playlist|Відновити незавершену чергу
+Play each level four times|Зіграти кожен рівень чотири рази
+Play each level five times|Зіграти кожен рівень п'ять разів
+mod_menu_fail_requirements|Цей мод не можна використовувати через проблеми з вимогами! Перевірте, чи встановлені наступні додаткові моди, і чи не мають вони власних проблем:
+OpComboBox_MouseSearchTuto|Наберіть запит у полі пошуку, щоб шукати
+OpComboBox_NonMouseUseTuto|Прогортайте за допомогою джойстика й натисніть ПІДТВЕРДИТИ щоб вибрати
+OpDragger_NonMouseGrabTuto|Натисніть ПІДТВЕРДИТИ, щоб взаємодіяти
+OpRadioButton_NonMouseTuto|Натисніть ПІДТВЕРДИТИ, щоб обрати цю опцію
+OpColorPicker_MouseRGBTuto|Оберіть колір за допомогою кольорових повзунків
+OpColorPicker_MouseHSLTuto|Оберіть колір з квадрату палітри кольорів та повзунку світлості
+OpColorPicker_MousePLTTuto|Оберіть колір з палітри
+MenuModList_SearchBox_Desc|Клацніть та друкуйте, щоб шукати моди
+Connector_SaveConfig_Alert|Збережено поточні налаштування моду <ModName>
+OIError_Message_Initialize|При ініціалізації OptionInterface виникла помилка.
+Vulture grub arena variety|Різноманітність личинок стерв'ятників в арені
+Lossless scavenger corpses|Стійкі трупи сміттярів
+Continue to the next cycle|Перейти до наступного циклу
+Or did I say that already?|Чи я вже це казала?
+Hello again, <PlayerName>!|Привіт знову, <PlayerName>!
+Hello again, <PlayerName>.|Привіт знову, <PlayerName>.
+I will accept your gift...|Я прийму твій подарунок...
+CLOSE|ЗАКРИТИ
+STORY|СЮЖЕТ
+ARENA|АРЕНА
+REMIX|РЕМІКС
+Cycle|Цикл
+Music|Музика
+INPUT|ВВЕДЕННЯ
+Pause|Пауза
+Throw|Кинути
+Right|Вправо
+Cross|Клавіша «Хрест»
+Space|Пробіл
+Shift|Shift
+PLAY!|ГРАТИ!
+Play!|Грати!
+ERROR|ПОМИЛКА
+SCORE|РАХУНОК
+ROUND|РАУНД
+APPLY|ЗАСТОСУВАТИ
+Other|Інше
+Remix|Ремікс
+...me|...мене
+Oh...|О...
+STOP!|ГОДІ!
+no...|ні...
+ps4_load_expedition_run_restore_corrupt_failed|Поточні дані Експедиції були пошкоджені.<LINE>Було знайдено бекап даних, але сталася помилка при спробі його відновити.
+You have delivered your most important message|Ви передали своє найважливіше повідомлення
+You completed every challenge laid before you.|Ви виконали всі випробування, що постали перед вами.
+Clear every milestone quest in Expedition Mode|Пройдіть кожну етапну місію в режимі Експедицій
+You are not the only lost soul in this world..|Ви не єдина загублена душа в цьому світі..
+Additional food (above four) is kept for later|Надлишок їжі (більше чотирьох) відкладається на потім
+Grab your prey and hold the eat button to feed|Хапайте здобич і утримуйте клавішу ЇСТИ, щоб харчуватися
+MenuModList_ModButton_Disable_NonMouse_Console|Натисніть ПІДТВЕРДИТИ, щоб вимкнути ці вмісти, натисніть ВПРАВО, щоб повернутися до списку
+MenuModList_ModButton_NonMouse_Display_Console|Натисніть СТРИБАТИ, щоб показати, натисніть ВЛІВО, щоб перейти до клавіші перемикання цих вмістів
+ConfigTabController_TabSelectButton_UnnamedTab|Перейти до вкладки #<TabIndex>
+Not that it solves anyone's problem but yours.|Нехай навіть це нікому, окрім тебе, і не допоможе.
+As I mentioned you do not have unlimited time.|Як я вже казав, твій час не безкінечний.
+Another? You're no better than the scavengers!|Ще одна? Та ти не гірший за сміттярів!
+I won't talk to you if you continue like this.|Я не розмовлятиму з тобою, якщо ти так продовжиш.
+ps4_load_expedition_restore_corrupt_failed|Основні дані Експедиції були пошкоджені.<LINE>Було знайдено бекап основних даних, але сталася помилка при спробі його відновити.
+Something lurks where the land fissures...|Щось чатує там, де розколюється земля...
+This place is safe. Stay here to hibernate|Тут безпечно. Залишіться тут, щоб впасти у сплячку
+There are also other significant drawbacks|Також є й інші суттєві недоліки
+When only one player left, rain approaches|Якщо залишається тільки один гравець, завчасно починається дощ.
+ps4_save_expedition_core_failed_free_space|Помилка при зберіганні основних даних Експедиції. Недостатньо вільного місця. Спробувати знову?
+I... won't speak to you... if you do that.|Я... не розмовлятиму з тобою... якщо ти це зробиш.
+Ah... <PlayerName>, a neuron from Pebbles?|А... <PlayerName>, нейрон від Гальки?
+ps4_load_save_slot_restore_corrupt|Дані слоту збереження були пошкоджені, але вдалося відновити останній бекап слоту збереження.
+Complete the Dragon Slayer passage|Отримайте перехід Драконовбивці
+Something lurks in the darkness...|Щось чатує в темряві...
+Complete the game as The Artificer|Пройдіть гру за Техніка
+Five Pebbles (General Systems Bus)|П'ять Гальок (Загальна Системна Шина)
+Pick up / Eat button interactions:|Взаємодії з клавішею Взяти / З'їсти:
+Game Over - Press SPACE to restart|Гру закінчено ― натисніть ПРОБІЛ для перезапуску.
+switch_controls_singlejoyconl_jump|Клавіша «Вниз»
+switch_controls_singlejoyconr_jump|Клавіша A
+ps4_save_options_failed_free_space|Помилка при зберіганні даних опцій. Недостатньо вільного місця. Спробувати знову?
+ConfigContainer_AlertPasteCosmetic|Вставлено <Text> з буферу обміну
+MenuModList_ModButton_Enable_Mouse|Увімкнути <Mod>
+Stronger bottomless pit indicators|Посилені індикатори бездонних прірв
+Monk-style gates for all campaigns|Брами Ченця в інших кампаніях
+Are you sure you want to continue?|Чи ви впевнені, що хочете продовжити?
+That's all. You'll have to go now.|Це все. Тобі час іти.
+You again? I have nothing for you.|Знов ти? У мене нічого для тебе немає.
+I wonder what it is that you want?|Цікаво, чого ж ти хочеш?
+I wish you would stop coming here.|Хотілося б, щоб ти перестав сюди повертатися.
+Oh... Of course I will take a look|О... Звісно, зараз подивлюся.
+ps4_load_expedition_run_restore_corrupt|Поточні дані Експедиції були пошкоджені, але вдалося відновити останній бекап даних.
+Clear every challenge in Challenge Mode|Пройдіть кожне випробування в режимі Випробовувань.
+ConfigMenuTab_ModPercentageButton_Label|Увімкнених Модів: <CountModEnabled> / <CountModTotal>
+Allows Saint to be able to throw spears|Дозволяє Святому застосовувати списи.
+The following options contain spoilers.|Наступні опції містять спойлери.
+Workshop upload completed successfully!|Вивантаження до Майстерні успішно завершено!
+<CapPlayerName>! Stay still and listen.|<CapPlayerName>! Вгамуйся та послухай.
+invert_x_description|Інвертувати горизонтальну вісь для аналогових джойстиків.
+invert_y_description|Інвертувати вертикальну вісь для аналогових джойстиків.
+rounds per level-ru2|раунди на рівень
+objecttype-FlareBomb|Сяйбомба
+objecttype-DataPearl|Перлина
+objecttype-JellyFish|Медуза
+objecttype-SlimeMold|Слизовик
+objecttype-EggBugEgg|Яйце Яйцежука
+objecttype-NeedleEgg|Яйце Локшинниці
+creaturetype-Slugcat|Слимакіт
+creaturetype-Vulture|Стерв'ятник
+creaturetype-CicadaA|Кальмарокада
+creaturetype-CicadaB|Кальмарокада
+creaturetype-JetFish|Стриба
+creaturetype-DropBug|Падовійка
+Communications Array|Комунікаційний Масив
+Stolen Enlightenment|Викрадене Просвітлення 
+Path of the pacifist|Шлях пацифіста
+The Saint-linebreaks|Святий
+switch_controls_jump|Клавіша B
+Gametype description|Опис режиму гри
+Play each level once|Зіграти кожен рівень один раз
+Normal Rain World AI|Звичайний ШІ Світу Дощу
+for killing creature|за вбивство істоти
+Persistent creatures|Наполегливі істоти
+controller_reconnect|Будь ласка, перепід'єднайте контролер гравця {0}.
+mod_menu_requirement|Потребує додаткові моди:
+mod_menu_ext_authors|Переглянути лист з титрами цього моду
+mod_menu_disable_all|Вимкнути всі моди
+Building token cache|Набудовування кешу токенів
+OpCheckBox_MouseTuto|Клацніть, щоб перемкнути
+OpUpdown_NonMouseUse|Скористайтеся джойстиком, щоб налаштувати, натисніть ПІДТВЕРДИТИ щоб застосувати
+MenuModStat_ModsFail|Встановлених модів з незадоволеними вимогами:
+Connector_UnnamedTab|#<TabIndex>
+Increased stun times|Збільшена тривалість приголомшень
+Wiggle out of grasps|Вивертання з захватів
+Key items on Passage|Ключові предмети при Переході
+Monk extended breath|Подовжене дихання Ченця
+Breath time leniency|Поблажливість до часу дихання
+Rain timer tick-tock|Цокання відліку дощу
+Vulnerable jellyfish|Вразливі медузи
+Unlock all campaigns|Розблокувати всі кампанії
+More Slugcats Cheats|Чити More Slugcats
+Exit to title screen|Вийти до головного меню
+Preparing for upload|Підготовка до вивантаження
+devtools-description|Вмикає внутрішньоігрові інструменти розробників, які надають необхідні засоби для редагування карт і регіонів, а також допомагають у процесі модифікування гри.<LINE> <LINE>Натисніть O в грі, щоб увімкнути/вимкнути інструменти розробників, і натисніть H,<LINE>щоб відкрити головний інтерфейс інструментів розробників.
+...leave me alone...|...залиш мене в спокої...
+Hello, <PlayerName>!|Привіт, <PlayerName>!
+Hello, <PlayerName>.|Привіт, <PlayerName>.
+...don't... do that.|...не роби... цього.
+Another gift for me?|Ще один подарунок для мене?
+Again? ... just, go.|Знову? ...та йди ти вже.
+Little archaeologist|Маленький археологу
+Clear the game as Survivor or Monk to unlock.|Пройдіть гру за Вцілілого або Ченця, щоб розблокувати.
+Objects can be picked up, carried, and tossed|Об'єкти можна підіймати, носити та кидати
+Some small creatures can be eaten immediately|Деяких дрібних істот можна з'їсти одразу
+MenuModList_ModButton_Enable_NonMouse_Console|Натисніть ПІДТВЕРДИТИ, щоб увімкнути ці вмісти, натисніть ВПРАВО, щоб повернутися до списку
+Show icons of nearby creatures on the minimap|Показує іконки навколишніх істот на мінімапі
+You are bringing a neuron. Is it to taunt me?|Ти приніс нейрона. Щоби поглузувати з мене?
+Your curiosity seems boundless, <PlayerName>.|Твоя допитливість видається безмежною, <PlayerName>.
+remix_dlc_restart|Якщо ви купили доповнення, вам треба буде перезапустити гру, щоб застосувалися нові вмісти.
+Expedition Leader|Очільник Експедицій
+creaturetype-Deer|Дощовий олень
+Looks to the Moon|Споглядачка Місяця
+Filtration System|Система Фільтрації
+The Dragon Slayer|Драконоборець
+Back to main menu|Повернутися до головного меню
+1 - SELECT PLAYER|1 - ОБЕРІТЬ ГРАВЦЯ
+2 - SELECT DEVICE|2 - ОБЕРІТЬ ПРИСТРІЙ
+Previous gametype|Попередній режим гри
+Reset score setup|Скинути налаштування підрахунку балів
+ps4_press_to_join|Натисніть<LINE><LINE><LINE>щоб приєднатися.
+minute until rain|хв. до дощу
+per point of food|за споживання їжі
+Delivered Payload|Доставлено Вантаж
+Leaderboard empty|Рейтинг порожній
+mod_menu_finalize|(Фіналізування застосування модів, будь ласка, почекайте...)
+MenuModStat_ModID|ID: <ModID>
+Key item tracking|Відстежування ключових предметів
+Alpha red lizards|Червоні альфи
+Unlock all arenas|Розблокувати всі арени
+moreslugcats-name|Доповнення More Slugcats
+Yet another gift?|Ще один подарунок?
+And you are back.|І ти повернувся.
+Within Time|Вчасно
+The Pilgrim|Паломник
+DELETE SAVE|ВИДАЛИТИ ЗБЕРЕЖЕННЯ
+Sky Islands|Небесні Острови
+Farm Arrays|Масиви Ферм
+The Scholar|Учень
+The Journey|Подорож
+Arena Music|Музика арени
+Jump Button|Клавіша Стрибнути
+NEW SESSION|НОВА СЕСІЯ
+Spears Hit:|Влучання списами:
+Rain Timer:|Таймер дощу
+No wildlife|Без істот
+Level Food:|Їжа рівня:
+Allow exit:|Умова виходу:
+Early Rain:|Ранній дощ:
+SCREEN SIZE|РОЗМІР ЕКРАНУ
+Slug Senses|Чуття слимакотів
+...leave...|...йди...
+This again.|Знову це.
+And...back.|І... повернувся.
+Back again.|Знову повернувся.
+Here again.|Знову тут.
+I...said...|я... казала...
+Migration|Міграція
+Messenger|Посланець
+The Cycle|Цикл
+The Nomad|Кочівник
+Outskirts|Околиці
+Shoreline|Узбережжя
+Underhang|Підвіс
+The Saint|Святий
+Ascension|Вознесіння
+SAVE SLOT|СЛОТ ЗБЕРЕЖЕННЯ
+vibration|Вібрація
+Connected|Підключено
+Wildlife:|Істоти:
+Spear hit|Влучання
+GAME OVER|ГРУ ЗАВЕРШЕНО
+Clear all|Очистити все
+? Confirm|? Підтвердити
+NEXT PAGE|НАСТУПНА СТОРІНКА
+Next Page|Наступна сторінка
+CONFIGURE|КОНФІГУРУВАТИ
+Author(s)|Автор(и)
+VIEW EULA|ПЕРЕГЛЯНУТИ EULA
+Uploading|Вивантажується
+A neuron.|Нейрон.
+tormentor|мучителю
+An Old Friend|Старий Друг
+Memory Crypts|Склепи Пам'яті
+The Chieftain|Отаман
+Music volume:|Гучність музики:
+Sound Effects|Звукові ефекти
+Pick up / Eat|Взяти / Їсти
+INPUT PRESETS|ЗА ЗАМОВЧУВАННЯМ
+Next gametype|Наступний режим гри
+ROUND SESSION|РАУНД ЗА СЕСІЮ
+Approximately|Приблизно
+Press to join|Натисніть, щоб приєднатися
+Repeat Rooms:|Повторів рівнів:
+High wildlife|Багато істот
+for surviving|за успішне виживання
+per spear hit|за влучання списами
+Configuration|Конфігурація
+HOLD TO START|УТРИМУЙТЕ, ЩОБ РОЗПОЧАТИ
+REGION SELECT|ОБРАТИ РЕГІОН
+Fetching Data|Отримання Даних
+PREVIOUS PAGE|ПОПЕРЕДНЯ СТОРІНКА
+Previous Page|Попередня сторінка
+Accessibility|Пристосування
+Hunter Cycles|Цикли Мисливця
+Wall pouncing|Відскакування від стін
+devtools-name|Інструменти розробників
+Thank... you.|Дякую... тобі.
+What is that?|Що це?
+Another gift?|Ще один подарунок?
+...thank you.|...дякую.
+And...listen!|І... послухай!
+Little friend|Маленький друже
+archaeologist|археологу
+The consequences of your journey have caught up with you|Наслідки вашої подорожі наздогнали вас
+You encountered the echo of A Bell, Eighteen Amber Beads|Ви зустріли відлуння Дзвоника, Вісімнадцяти Бурштинових Намистин
+You encountered the echo of Two Sprouts, Twelve Brackets|Ви зустріли відлуння Краплин на П'ятьох Великих Краплинах
+Press and hold, then use up/down to adjust score awarded|Натисніть та утримуйте, після чого користуйся клавішами вгору/вниз для налаштування отримуваних балів
+You must update the application to use network features.|Для використання мережевих функцій необхідно оновити застосунок.
+The presets below can be used to quickly reset settings.|Опції нижче можуть бути використані, щоб швидко<LINE>повернути всі налаштування до значень за замовчуванням.
+RELAXED preset is a significant reduction in difficulty.|НЕВИМУШЕНИЙ режим — значне зниження складності.
+This option may actually make Rivulet's campaign harder.|Ця опція насправді може зробити кампанію Струмка важчою. 
+The scavengers must be jealous of you, finding all these|Напевно, сміттярі заздрять тобі, що ти їх усі знаходиш.
+You completed every expedition laid before you.|Ви виконали всі експедиції, що постали перед вами.
+Something lurks in a flourishing outcropping...|Щось чатує у квітучих чагарниках...
+Additional food (above three) is kept for later|Надлишок їжі (більше трьох) відкладається на потім
+Hold down to wipe your save slot and start over|Утримуйте, щоб стерти слот збереження і почати спочатку.
+You are starving. Your game has not been saved.|Ви голодуєте. Вашу гру не було збережено.
+Are you sure you want to disable this mechanic?|Чи ви точно впевнені, що хочете вимкнути цю механіку?
+You must accept the End User License Agreement.|Ви повинні прийняти Ліцензійну угоду з кінцевим користувачем (EULA).
+You're leaving yet again. This time, stay away.|І ти вкотре йдеш. Цього разу, не повертайся.
+Listened to the conflation of echoes|Ви послухали злиття відлунь 
+Nineteen Spades, Endless Reflections|Дев'ятнадцять Пік, Нескінченні Роздуми
+Game Over - Press OPTIONS to restart|Гру закінчено ― натисніть клавішу НАЛАШТУВАННЯ для перезапуску.
+switch_controls_singlejoyconl_pickup|Клавіша «Вліво»
+switch_controls_singlejoyconr_pickup|Клавіша B
+Creatures are vicious and aggressive|Істоти жорстокі та агресивні
+switch_single_joycon_region_map_help|Натисніть SR, щоб переглянути регіональну мапу
+JUMP/THROW buttons - Switch layers_1|Клавіші СТРИБНУТИ/КИНУТИ — Змінити прошарок
+JUMP/THROW buttons - Switch layers_2|Клавіша «Хрест»/«Коло» — Змінити прошарок
+JUMP/THROW buttons - Switch layers_3|Клавіша B/A — Змінити прошарок
+JUMP/THROW buttons - Switch layers_4|Клавіша ВНИЗ/ВПРАВО — Змінити прошарок
+JUMP/THROW buttons - Switch layers_5|Клавіша A/X — Змінити прошарок
+Title is offline or is disconnected.|Гра не працює в режимі офлайн або відключена.
+OpKeyBinder_NonMouseJoystickBindTuto|Натисніть клавішу, щоб прив'язати (ПАУЗА, щоб відв'язати, CTRL + Num, щоб встановити номер контролеру)
+ConfigContainer_AlertCopyNoncosmetic|Скопійовано <Text> до буферу обміну з <ObjectName>
+ConfigMenuTab_RevertHoldButton_Label|СКАСУВАТИ
+MenuModList_ModButton_RainWorldDummy|Представляє базову гру Rain World, яка завантажується спочатку, перед усіма вищезазначеними модифікаціями.
+Are you sure you want to view these?|Чи ви точно хочете їх побачити?
+Yes, you're welcome to have it back.|Так, будь ласка, забирай це собі.
+Oh, leaving. Please don't come back.|А, ти йдеш. Будь ласка, не повертайся.
+Something lurks at the highest reaches of the world...|Щось чатує на найвищих вершинах світу...
+Assign player <X> to the default XBox controller setup|Призначити гравцю <X> налаштування контролера XBox за замовчуванням
+Select which levels to play<LINE>in the level selector|Оберіть рівні для гри<LINE>в меню рівнів
+Shows a visual pulse on screen when threats are nearby|Показує візуальну пульсацію на екрані, коли поблизу загрози
+All lizard breeds have unique sound effects and voices|Усі різновиди ящерів мають унікальні звукові ефекти і голоси
+(Normally requires completing Gourmand's food tracker)|(Зазвичай потребує заповнення харчового лічильника Гурмана)
+Mod's thumbnail image should have a 16:9 aspect ratio.|Мініатюра мода має мати пропорції 16:9.
+If you eat it or leave with it, I will die. I beg you.|Якщо ти з'їси його, або забереш із собою, я помру. Благаю.
+Oh, I have already read this one to you, <PlayerName>.|О, цю я вже тобі читала, <PlayerName>.
+Complete the game as The Survivor or as The Monk|Пройдіть гру за Вцілілого або за Ченця
+ConfigMenuTab_ModPercentageButton_MouseEnableAll|Клацніть, щоб увімкнути всі моди
+MenuModList_ModButton_NonMouse_Configure_Console|Натисніть СТРИБАТИ, щоб конфігурувати, натисніть ВЛІВО, щоб перейти до клавіші перемикання цих вмістів
+Access was denied. Do you own the game on Steam?|Доступ було відхилено. Ви володієте грою в Steam?
+This one I've already read to you, <PlayerName>.|Оцю тобі я вже читала, <PlayerName>.
+Complete the game as The Hunter|Пройдіть гру за Мисливця
+Your travels have taken you far|Ваші подорожі завели вас далеко
+You have left this world behind|Ви залишили цей світ позаду
+ConfigMenuTab_ApplyButton_Label|ЗАСТОСУВАТИ
+ConfigMenuTab_RevertButton_Desc|Повернутися до списку модів
+ConfigMenuTab_ResetButton_Label|СКИНУТИ
+MenuModList_ModButton_Configure|Конфігурувати <Mod>
+MenuModList_ListButton_ScrollUp|Натисніть та утримуйте мишею, щоб прогортати список модів вгору
+MenuModList_ListButton_ScrollDw|Натисніть та утримуйте мишею, щоб прогортати список модів вниз
+MenuModList_ListButton_Collapse|Згорніть, щоб сховати мініатюри у списку модів
+Connector_ChangeActiveTab_Alert|Поточну активну вкладку було перемкнено на вкладку <TabName>
+Connector_ChangeActiveMod_Alert|Поточний відображений мод змінено на мод <ModName>
+Enable the wall pounce mechanic|Вмикає механіку відскакування від стін
+ps4_expedition_slot_description|Дані збереження Експедиції Rain World
+ps4_expedition_core_description|Основні дані Експедиції Rain World
+ps4_save_expedition_core_failed|Помилка при зберіганні основних даних Експедиції.
+ps4_load_expedition_core_failed|Основні дані збереження Експедиції пошкоджені і будуть видалені.
+It's you, <PlayerName>!  Hello!|Це ти, <PlayerName>! Привіт!
+You... Strange thing. Now this?|Ти... Дивна істото. А тепер це?
+Oh, what is that, <PlayerName>?|О, що це, <PlayerName>?
+You would like me to read this?|Хочеш, щоб я її прочитала?
+Find the canonical ending to The Gourmand's campaign|Знайдіть канонічну кінцівку кампанії Гурмана
+Find a destination for The Hunter's starting payload|Знайдіть призначення грузові Мисливця
+ConfigMenuTab_ModPercentageButton_NonMouseDisableAll|Натисніть ПІДТВЕРДИТИ, щоб вимкнути всі моди
+Pause the rain timer while dialog is being displayed|Призупиняє таймер дощу, поки відображається діалог
+Discourages Snails from idling inside pipe entrances|Знеохочує байдикування Равликів поруч з входами труб
+It is recommended to use this only as a last resort.|Рекомендується користатися цим тільки в крайньому разі.
+I don't know what to say. Never come back, creature!|Не знаю навіть, що й сказати. Ніколи сюди не повертайся, істото!
+Little creature, why don't you stay calm and listen?|Маленька істото, чому б тобі не залишитися й не послухати?
+Find the canonical ending to The Rivulet's campaign|Знайдіть канонічну кінцівку кампанії Струмка
+Dropping food in the water might attract creatures.|Кидання їжі в воду може привабити істот.
+ConfigMenuTab_ModPercentageButton_NonMouseEnableAll|Натисніть ПІДТВЕРДИТИ, щоб увімкнути всі моди
+Cannot update mod with no pre-existing workshop ID.|Не можна оновити мод без вже існуючого ID Майстерні
+There is nothing here. Not even my memories remain.|Тут нічого немає. Навіть моїх спогадів не залишилося...
+Something new you want me to look at, <PlayerName>?|Ще щось новеньке, що тебе цікавить, <PlayerName>?
+It's a bit dusty, but I will do my best. Hold on...|Вона трішки запилилася, але я спробую. Почекай-но...
+Now if you'll let me, I will try to say this again.|А тепер, якщо дозволиш, спробую сказати це знову.
+It's a rock. Thank you, I suppose, little creature.|Це камінь. Дякую, мабуть, маленька істото.
+objecttype-Rock|Камінь
+Drainage System|Дренажна Система
+History lessons|Уроки історії
+Change language|Змінити мову
+Bind <X> button|Прив'язати клавішу <X>
+Back to options|Назад до налаштувань
+round per level|раунд на рівень
+Medium wildlife|Середньо істот
+SESSION RESULTS|РЕЗУЛЬТАТИ СЕСІЇ
+Finding Changes|Пошук змін
+Fast map reveal|Швидше розкриття мапи
+Extra tutorials|Додаткові підказки
+Easier dropwigs|Легші падовійки
+Quality of Life|Покращення ігроладу
+Unlock Slugpups|Розблокувати Слимакошенят
+expedition-name|Експедиція
+Leave me alone!|Дай мені спокій!
+Please stop it!|Будь ласка, годі!
+Little creature|Маленький звіре
+Prevents falling off from poles when throwing objects|Запобігає падінню з жердин під час кидання предметів
+Swim boosting will not consume additional breath time|Підводні прискорення не споживатимуть додаткового часу дихання
+Removes visual effects that cause the screen to shake|Прибирає візуальні ефекти, що викликають дрижання екрану
+Are you sure you want to disable ALL karma mechanics?|Чи ви впевнені, що хочете вимкнути ВСІ кармічні вимоги?
+Mod's thumbnail image must be less than 1 MB in size.|Мініатюра мода має бути меншою за мегабайт у розмірі.
+Your account is locked or has a community or VAC ban.|Обліковий запис заблокований або має бан VAC або спільноти.
+The workshop service is unavailable. Try again later.|Послуги Майстерні недоступні. Спробуйте пізніше.
+Yet another gift? You're quite curious, <PlayerName>!|Ще один подарунок? А ти досить допитливий, <PlayerName>!
+A nimble omnivore, both predator and prey. Lost in a harsh and indifferent<LINE>land you must make your own way, with wit and caution as your greatest assets.|Спритний всеїдний звір, водночас і хижак, і здобич. Загубившись у<LINE>суворих і байдужих краях, ти маєш прокласти свій власний шлях,<LINE>з кмітливістю й обачністю – твоїми найголовнішими перевагами.
+Weak of body but strong of spirit. In tune with the mysteries of the world and<LINE>empathetic to its creatures, your journey will be a significantly more peaceful one.|Слабкий тілом, проте сильний духом. У злагоді з таємницями світу та<LINE>співчуттям до його мешканців, твоя мандрівка буде значно спокійнішою.
+Strong and quick, with a fierce metabolism requiring a steady diet of meat. But the<LINE>stomach wont be your only concern, as the path of the hunter is one of extreme peril.|Міцний та спритний, з шаленим метаболізмом, котрий вимагає м'яса. Та шлунок<LINE>буде не єдиною твоєю турботою, адже шлях мисливця – шлях надзвичайних небезпек.
+Five Pebbles (Unfortunate Development)|П'ять Гальок (Невдала Розробка)
+Six Grains of Gravel, Mountains Abound|Шість Зерен Гравію, Рясні Гори
+Jump and grab them. They're delicious!|Підстрибніть та схопіть їх. Вони смачні!
+Takes input from any connected gamepad|Приймає введення з будь-якого пристрою
+switch_controls_singlejoyconl_movement|Лівий джойстик
+switch_controls_singlejoyconr_movement|Правий джойстик
+Unlock all the Trophies in Rain World!|Розблокуйте всі Трофеї в Rain World!
+MenuModList_ModButton_Disable_NonMouse|Натисніть ПІДТВЕРДИТИ, щоб вимкнути ці вмісти, скористайтеся джойстиком, утримуючи ВПРАВО, щоб змінити чергу завантаження
+MenuModList_ModButton_NonMouse_Display|Натисніть ПІДТВЕРДИТИ, щоб показати <Mod>
+ConfigTabController_TabScrollButton_Up|Натисніть та утримуйте мишею, щоб прогортати список угору
+ConfigTabController_TabScrollButton_Dw|Натисніть та утримуйте мишею, щоб прогортати список униз
+The following cheats contain spoilers.|Наступні чити містять спойлери.
+Mod uploaded with Unlisted visibility.|Мод вивантажено з Невидимим статусом.
+Ah... <PlayerName>, you're here again!|А... <PlayerName>, ти знову тут!
+Ah... <PlayerName>, you're here again.|А... <PlayerName>, ти знову тут.
+I must ask you... Don't do that again.|Будь ласка... Не роби цього знову.
+Rain... You better go. I will be fine.|Дощ... Тобі краще йти. Зі мною все буде добре.
+<CapPlayerName>... Please settle down.|<CapPlayerName>... Будь ласка, вгамуйся.
+Yes, there you go. This is ridiculous.|Ага, от і все. Це просто смішно.
+Five Pebbles (Recursive Transform Array)|П'ять Гальок (Рекурсивний Масив Трансформації)
+You need to eat meat to sustain yourself|Вам треба харчуватися м'ясом, щоб вижити
+Default singleplayer<LINE>keyboard setup|Стандартні налаштування<LINE>клавіатури для одиночної гри
+OpKeyBinder_ErrorConflictOtherModDefault|Клавіша за замовчуванням конфліктує з <ModID>
+MenuModList_ModButton_NonMouse_Configure|Натисніть ПІДТВЕРДИТИ, щоб конфігурувати <Mod>
+You are not currently logged into Steam.|Ви не ввійшли в Steam.
+Yes, help yourself. They are not edible.|Авжеж, пригощайся. Вони не їстівні.
+This pearl has been written to just now!|Вміст цієї перлини нещодавно було змінено!
+You encountered the echo of Droplets upon Five Large Droplets|Ви зустріли відлуння Двох Паростків, Дванадцяти Підпор
+Press while holding down direction (crouching) to drop object|Натисніть, утримуючи вниз (присідаючи), аби впустити предмет
+You must activate this mod before attempting to configure it.|Необхідно спочатку активувати цей мод, перш ніж його конфігурувати.
+I won't tolerate this. Leave immediately and don't come back.|Я цього не терпітиму. Негайно забирайся звідси й не повертайся.
+As you can see, I have nothing for you. Not even my memories.|Як бачиш, мені нема чого тобі запропонувати. Навіть своїх спогадів.
+Here we go again, little archeologist. Let's read your pearl.|І ось знову, маленький археолог. Нумо прочитаймо твою перлину.
+You encountered the echo of Four Needles under Plentiful Leaves|Ви зустріли відлуння Чотирьох Голок під Рясним Листям
+Show a visual indicator on the UI of your remaining breath time|Показує візуальний лічильник часу дихання, який залишився, на користувацькому інтерфейсі
+Lizards can pull embedded spears out of walls with their tongue|Ящери можуть витягувати встромлені списи зі стін своїм язиком
+Failed to acquire User Generated Content lock. Try again later.|Не вдалося отримати блокування контенту користувача. Спробуйте пізніше.
+You encountered the echo of Nineteen Spades, Endless Reflections|Ви зустріли відлуння Дев'ятнадцяти Пік, Нескінченних Роздумів
+Warning, too many creatures may result in poor game performance.|Увага, забагато істот можуть погіршити працездатність гри.
+Reduces the amount of time taken to get started with a new cycle|Зменшує кількість часу, яку займає початок нового циклу
+One of your workshop mods already has the same name as this one.|Один з ваших модів у Майстерні вже має ту саму назву, що й цей.
+I appreciate what you have done but it is time for you to leave.|Ціную те, що ти зробив, але тобі вже час рушати.
+Let us see... to be honest, I'm as curious to see it as you are.|Нумо подивимося... чесно кажучи, мені й самій цікаво на неї поглянути.
+You encountered the echo of Six Grains of Gravel, Mountains Abound|Ви зустріли відлуння Шести Зерен Гравію, Рясних Гір
+You must apply new mods setup before attempting to configure them.|Необхідно спочатку застосувати зміни в списку модів, перш ніж намагатися їх конфігурувати.
+Stops Hunter from automatically grabbing batflies with a free hand|Заважає Мисливцеві автоматично хапати кажанів вільними руками
+Increases the radius of Monk's hologram light in pitch-black areas|Збільшує радіус підсвічувальної голограми Ченця в непроглядній темряві.
+Prevents the chance of waking up early before the rain has stopped|Прибирає можливість прокидатися завчасно до кінця дощу
+(Normally requires finding Red unlock tokens in the campaign maps)|(Зазвичай потребує знаходження червоних розблокувальних токенів у мапах кампаній)
+<CapPlayerName>, if you do that, I will not speak to you any more.|<CapPlayerName>, якщо ти це зробиш, я більше з тобою не розмовлятиму.
+The highest enlightenment, achieved by the hardest path. A feat even the guardians must respect.|Найвище просвітлення, досягнуте найважчим шляхом. Подвиг, що мають поважати навіть вартові.
+Standard Remix settings. Many mechanical tweaks that may mix up the way the game is experienced.|Звичайні налаштування. Чимало механічних змін, що можуть урізноманітнити досвід гри.
+When crouching, hold the JUMP button without giving any other input|Присівши, утримуйте клавішу СТРИБОК, не натискаючи жодних інших клавіш
+Allow players to exit when rain is close or only one player is left|Дозволяє гравцям втекти, якщо наближається дощ, або якщо залишається тільки один гравець.
+Reduces the overall speed of the game to assist with reaction times|Сповільнює швидкість гри, щоб допомогти зі швидкістю реакції
+(Normally requires finding Blue unlock tokens in the campaign maps)|(Зазвичай потребує знаходження блакитних розблокувальних токенів у мапах кампаній)
+??????????????????????????????????????????????????????????????????™|??????????????????????????????????????????????????????????????????™
+Something new you want me to look at,<LINE>I suppose, <PlayerName>?|Припускаю, це ще щось новеньке,<LINE>що тебе цікавить, <PlayerName>?
+This creature is dehydrated. You can carry it back to water.|Ця істота зневоднена. Ви можете перенести її назад до води.
+Prevent injured creatures from fleeing to dens in arena mode|Запобігає втечі поранених істот до притулків у режимі арени
+Increases the amount of underwater breath time that Monk has|Збільшує тривалість підводного дихання, яку має Чернець.
+(Normally requires completing all Challenge Mode challenges)|(Зазвичай потребує проходження всіх випробовувань режиму Випробовувань)
+Best of luck to you, little creature. I must resume my work.|Щасти тобі, маленька істото. Я мушу продовжувати свою працю.
+Never do that again. Or just kill me quickly. Whichever way.|Ніколи більше так не роби. Або ж вбий мене швидко. Як тобі завгодно.
+I think we have already talked about this one, <PlayerName>.|Думаю, ми про цю вже розмовляли, <PlayerName>.
+Larger prey needs to be incapacitated first|Більшу здобич потрібно спочатку знешкодити 
+Little creature. This is your last warning.|Маленька істото. Це — твоє останнє попередження.
+Please don't... take... more from me... Go.|Благаю, не... забирай... більше в мене... Йди...
+And yet another one! I will read it to you.|І ще одна! Я її тобі прочитаю.
+I've told you about this one, <PlayerName>.|Я вже тобі про цю розповідала, <PlayerName>.
+And now you expect me to continue speaking?|А тепер ти очікуєш, що я продовжу розмовляти?
+It's a delicious plant. You should have it!|Це смачна рослина. Візьми, скуштуй!
+It is possible to hibernate with less than sufficient food|Можна впасти у сплячку з нестачею їжі
+It is not recommended to use these on a first playthrough.|Не рекомендується користуватися ними під час перших проходжень.
+This mod already exists on the workshop by another author.|Цей мод уже був викладений в Майстерні іншим автором.
+Release that, and leave. I will not speak to you any more.|Відпусти його й іди звідси. Надалі я з тобою не розмовлятиму.
+Thank you... That is a little better. Thank you, creature.|Дякую... Так трішки краще. Дякую тобі, істото.
+In a shelter, hold DOWN for several seconds to force hibernate|У притулку втримуйте ВНИЗ декілька секунд, аби примусово заснути
+Multiplies the total duration of the rain timer by this amount|Помножує загальну тривалість зворотнього відліку дощу цим числом
+The rain timer makes a tick-tock noise while the UI is visible|Відлік дощу цокає, коли відображається користувацький інтерфейс
+Vultures that appear in dark rooms are cloaked by the darkness|Стерв'ятники, що з'являються в темних кімнатах, приховані темрявою
+Press CONTINUE after accepting the End User License Agreement.|Натисніть ПРОДОВЖИТИ після прийняття Ліцензійної угоди з кінцевим користувачем.
+Press CONTINUE to view and/or edit your uploaded workshop mod.|Натисніть ПРОДОВЖИТИ, щоб переглянути та/або редагувати вивантажений мод Майстерні.
+WARNING!<LINE>This will reset all progress in the selected save slot,<LINE>including map exploration. Unlocked arenas and<LINE>sandbox items are retained.|УВАГА! <LINE>Це скине весь прогрес вибраного слоту збереження,<LINE>включно з дослідженням мапи. Розблоковані арени та <LINE> елементи Пісочниці буде збережено.
+WARNING!<LINE>This will reset all of your progress except map exploration.|УВАГА!<LINE>Це скине весь ваш прогрес, окрім дослідження мапи.
+WARNING! Too many creatures may result in bad game performance or crashes.|УВАГА! Забагато істот можуть погіршити працездатність гри, або навіть викликати збої.
+Please log in to STOVE Client with the account that has purchased the game|Будь ласка, увійдіть до STOVE Client з облікового запису, на якому куплена гра.
+Gives the player the ability to dislodge spears that are embedded in walls|Дає гравцеві здатність витягувати встромлені списи зі стін
+(One time use) Fast travel to any discovered shelter, recovering all karma|(Одноразове) Миттєво опиніться в будь-якому дослідженому притулку, з відновленням усієї карми
+Show information on loading screens that helps verify settings used and the legitimacy of runs.|Показує інформацію на екранах завантаження, що допомагає верифікувати використовувані налаштуваня та легітимізувати спідрани.
+Give a grace period on cycle start and region entry before scavenger kill squads can attack you|Надає пільговий час на початку цикла, перш ніж вбивчі зграї сміттярів зможуть вас атакувати
+Advantageous glitches and speedrunner exploits are made available to use again with this option|Цією опцією знов стають доступними сприятливі глюки і спідранерські експлойти
+Similar to the original Rain World experience, but with a few quality of life settings enabled.|Схожий на первісний досвід Rain World, але з деякими ввімкненими поліпшеннями якості життя.
+Map|Мапа
+Esc|Esc
+Yes|Так
+YES|ТАК
+HUD|Інтерфейс
+run|біжи
+Up|Вгору
+R1|R1
+RB|RB
+ok|ОК
+No|Ні
+NO|НІ
+Assign player <X> to the default keyboard controls|Призначити гравцю <X> керування клавіатурою за замовчуванням
+Increase the speed that the minimap reveals itself|Підвищує швидкість, з якою розкривається мапа
+(Normally requires completing Gourmand's campaign)|(Зазвичай потребує проходження кампанії Гурмана)
+This menu contains cheats to unlock content early.|Це меню містить чити для розблокування контенту заздалегідь.
+What are you? If I had my memories I would know...|Що ти таке? Мала б я свої спогади, то знала б...
+If you behave like this, why should I talk to you?|Чому я маю з тобою розмовляти, якщо ти так зі мною поводишся?
+Paused - Warning! Quitting after 30 seconds into a cycle counts as a loss|Призупинено ― Увага! Вихід з циклу після більш ніж 30 секунд вважається програшем.
+By comparison, the RELAXED preset may weaken the overall game experience.|НЕВИМУШЕНИЙ режим може послабити загальний досвід гри, порівняно з іншими.
+(Normally requires completing campaigns and clearing previous challenges)|(Зазвичай потребує проходження кампаній і попередніх випробувань)
+Shelter failures give periodic reprieves by providing longer cycle times.|Збої притулків дають періодичні відстрочки завдяки подовженій тривалості циклів.
+Paused - Warning! Quitting without saving in a shelter will permanently end your game|Призупинено ― Увага! Вихід без збереження в притулку остаточно завершить вашу гру.
+For all campaigns, gates will remain open permanently after passing through them once|У всіх кампаніях брами назавжди залишаться відчиненими після першого проходження крізь них.
+Spearing a scavenger directly in their head will do significantly more damage to them|Влучання в голови Сміттярів завдаватимуть набагато більше шкоди
+The maximum number of subsequent explosion actions Artificer can perform before dying|Максимальна кількість вибухів, які поспіль може виконати Технік, перш ніж померти.
+Limit exceeded. You may need to reduce the filesize or remove prior workshop content.|Перевищено ліміт. Можливо потрібно зменшити розмір файлу або прибрати попередній контент Майстерні.
+A little animal, on the floor of my chamber. I think I know what you are looking for.|Крихітна тварино на підлозі моєї камери. Думаю, я знаю, що ти шукаєш.
+Really exit? Note that quitting after 30 seconds into a cycle counts as a loss.|Справді вийти? Зауважте, вихід після 30 секунд циклу вважається програшем.
+You get these at Five Pebbles'?<LINE>Thank you so much. I'm sure he won't mind.|Ти їх береш у П'яти Гальок?<LINE>Превелике тобі дякую. Впевнена, йому на те все одно.
+Create custom scenarios using levels, items and creatures<LINE>that have been unlocked in the single player campaigns.<LINE>Defeating creatures or other actions can be set to award points,<LINE>but Sandbox is mostly about customization and fun!|Створюйте власні сценарії, використовуючи рівні, предмети та<LINE>створінь, які були розблоковані в кампаніях одиночної гри.<LINE>Перемога над істотами або інші дії можуть бути налаштовані на нараховування<LINE>балів, проте Пісочниця — насамперед про підлаштовування та веселощі!
+For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.|Однак, у тебе є інший засіб. Старий шлях. Рушай на захід, повз Фермерські Масиви, а потім донизу, туди,<LINE>де розколюється земля, якомога глибше, де стародавні зводили свої храми й святкували свої кумедні ритуали.
+Compete in a battle against each other and the elements.<LINE>In this mode points are awarded for food items consumed,<LINE>with surviving players always ranking above dead players.<LINE>New levels, items and creatures can be unlocked in the<LINE>single player campaigns.|Змагайтеся в сутичках один з одним та зі стихіями.<LINE>У цьому режимі бали нараховуються за спожиту їжу,<LINE>а рейтинг вцілілих гравців завжди буде вищий за загиблих.<LINE>Нові рівні, предмети та створінь можна розблокувати<LINE>в одиночних кампаніях.
+No items except what you place in the editor|Немає предметів, крім тих, що були поміщені в редакторі
+Allow players above a specific score to exit|Дозволяє втекти гравцям з певним рахунком
+MenuModList_ModButton_NonMouse_Blank_Console|Натисніть ВЛІВО, щоб перейти до клавіші перемикання цих вмістів
+ConfigTabController_TabSelectButton_NamedTab|Перейти до вкладки <TabName>
+This mod cannot be uploaded to the Workshop.|Мод не можна вивантажити до Майстерні.
+It's still warm... this was in use recently.|А вона ще тепла... нею нещодавно користалися.
+W|В
+L|П
+Press the MAP button to select the shelter you wish to continue from|Натисніть клавішу МАПА, щоб обрати притулок, з якого хочете продовжити
+These are recommended starting points based on different playstyles.|Це — рекомендовані, заздалегідь встановлені опції, засновані на різних стилях гри.
+It also largely negates the game's difficulty curve and progression.|Вона також нівелює криву складності та прогресу гри.
+(Normally requires finding Green unlock tokens in the campaign maps)|(Зазвичай потребує знаходження зелених розблокувальних токенів у мапах кампаній)
+“Go west, past the Farm Arrays and then down deep into the earth...”|«Рушай на захід, повз Фермерські Масиви, а потім донизу...»
+Please sign in to PlayStation™Network to view leaderboards.|Будь ласка, увійди до PlayStation™Network для перегляду рейтингів.
+Progress towards Trophies will only be tracked for player 1|Прогрес Трофеїв відстежуватиметься тільки для гравця 1
+This may SIGNIFICANTLY alter your experience with the game.|Це може СУТТЄВО вплинути на ваш досвід гри.
+(Normally requires completing previous campaigns to unlock)|(Зазвичай потребує проходження минулих кампаній для розблокування)
+Stop doing... this, or I... will not speak... to you again.|Припини так... робити, або я... більше не розмовлятиму... з тобою.
+You have been signed out from PlayStation™Network. Please connect to PlayStation™Network to view Leaderboards.|Ви вийшли з облікового запису PlayStation™Network. Будь ласка, під'єднайтеся до PlayStation™Network щоб переглядати рейтинги.
+Items that typically attach to the terrain with a stem will spawn with their stems when placed in Sandbox mode|Предмети, які зазвичай прикріплюються до місцевості стеблами, з'являтимуться зі своїми стеблами у режимі Пісочниці
+... You're getting quite good at this you know. A little archeologist beast.<LINE>Now, let's see what it says.|... А знаєш? Ти вже стаєш досить вправним у цьому, маленький звіре-археологу.<LINE>А тепер, нумо подивимося, про що тут йде мова.
+ConfigMenuTab_ModPercentageButton_MouseDisableAll|Клацніть, щоб вимкнути всі моди
+This mod does not have any configurable settings.|Цей мод не має власного інтерфейса або конфігурацій Remix.
+Thank you little creature. I must resume my work.|Дякую, маленька істото. Я мушу повертатися до своєї праці.
+Thank you. I must ask you... Don't do that again.|Дякую. Будь ласка... Не роби цього знову.
+Periodically shows tips and tutorials during the loading screen between cycles|Періодично показує підказки та поради під час екрану завантаження між циклами.
+Adds an additional trajectory of throwing grenades if the up direction is held|Надає додаткову траекторію кидання гранат, якщо утримується клавіша вгору
+Introduces a few additional in-game tutorial messages for certain mechanics and scenarios|Запроваджує декілька додаткових внутрішньоігрових порад щодо певних механік і сценаріїв
+All cycles will have the same duration, and will always use the longest duration possible|Усі цикли матимуть ту саму тривалість і завжди будуть якнайдовшими
+You should try the 'Monk-style Gates' option first before resorting to using this option.|Спочатку варто спробувати опцію «Брами Ченця в інших кампаніях», перш ніж вдаватися до цієї.
+Increases the amount of time that rocks and snail pops can cause some creatures to be stunned for|Збільшує тривалість часу, на який лускіт Равликів або каміння можуть приголомшувати істот
+Dynamic difficulty is influenced by number of regions visited more than number of cycles survived|На динамічну складність сильніше впливає кількість відвіданих регіонів, а не пережитих циклів.
+Gives a chance of escaping from different grasps by rapidly wiggling with the movement buttons|Дає шанс вивернутися з різних захватів швидким перебиранням клавіш руху
+Multiplies the total duration of the shortened rain timer by this amount in Rivulet's Campaign|Помножує загальну тривалість зменшеного зворотнього відліку дощу в кампанії Струмка цим числом
+Prevents Jetfish from being able to knock items out of your hands|Позбавляє стриб можливості вибивати речі з рук
+Changes the amount of cycles Hunter starts with in their campaign|Змінює кількість циклів, з якими починає кампанію Мисливець
+You're stuck in a cycle, a repeating pattern. You want a way out.|Ти застрягла у циклі, у повторюваній послідовності. Ти хочеш визволитися.
+Another pearl! You want me to read this one too? Just a moment...|Ще одна перлина? Хочеш, щоби я й цю прочитала? Хвилинку...
+A pearl... This one is crystal clear - it was used just recently.|Перлина... Ця кришталево чиста — нею зовсім нещодавно користувалися.
+Gives a small chance of being able to survive a direct attack from a dropwig|Надає невеликий шанс пережити прямий напад падовійки
+Use the throw button to activate tongue controls rather than the jump button|Використовує клавішу КИДАТИ, щоб керувати язиком, а не клавішу СТРИБАТИ
+Passages bring all key items in a shelter with you to the new destination, rather than just the stomach item|При Переході з вами до нового місця призначення переносяться всі ключові предмети, а не лише той, що в шлунку.
+It's a piece of sharpened rebar... What is it you want to know?<LINE>You seem proficient enough at using it.|Це шмат загостреної арматури... Що ти хочеш про нього дізнатися?<LINE>Схоже, ти вже досить вправно ним орудуєш.
+Key items are tracked on the map and will respawn on subsequent cycles if they are lost, at the location they were lost|Ключові предмети відстежуються на мапі й з'являтимуться на наступних циклах у випадку втрати там, де були втрачені.
+Centipedes will release you if you go through a pipe while you are grabbed by one|Багатоніжки відпускатимуть вас при проходженні крізь труби, якщо вони вас вхопили.
+Prevents the chance of the region being flooded during a shelter failure scenario|Прибирає шанси на те, що регіон перебування буде затоплений у випадку збою притулків
+Makes the death gradients on bottomless pits more visible|Робить смертельні градієнти бездонних прірв більш помітними
+Allow throwing spears directionally while in zero gravity|Дозволяє напрямлено жбурляти списи, коли в невагомості
+This option disables multiple core mechanics of the game.|Ця опція вимикає чимало ключових механік гри.
+It is strange... I'm remembering myself, but also... him.|Дивно... Я згадую себе, але також... і його.
+Allow passing any gate for free, regardless of your current karma level|Дозволяє проходити крізь брами задарма, незалежно від вашого рівня карми.
+Hide the remaining cycle time while in maps that are safe from the rain|Приховує час, що залишається до дощу, у місцинах, де дощ не становить загрози
+And this one is fresh! It was not long ago this data was written to it!|А оця свіжа! Не так давно на ній записали ці дані!
+Vulture Grubs have a chance to summon stronger vulture types in arena mode if those types are unlocked|Личинки Стерв'ятників мають шанс викликати сильніші різновиди стерв'ятників, якщо ті різновиди розблоковані.
+If enabled, all scavenger corpses in Artificer's campaign always have the maximum possible karma value|Якщо ввімкнено, всі трупи сміттярів у кампанії Техніка завжди матимуть максимально можливий рівень карми.
+Allows certain passages to gain progress even before the Survivor passage has been achieved|Дозволяє отримати прогрес на певні переходи навіть до отримання переходу Вцілілого
+Reduces the volume for the sound effects of gates and shelters opening|Зменшує гучність звукових ефектів відчинення брам і притулків
+Let us try again - not that it has worked well before. I was saying...|Спробуймо знову, хоча й не те, щоб це працювало раніше. Я казала...
+If you are having trouble, you may want to try The Monk campaign first. It may help you get a better feel for the game and ease you into Rain World.|Якщо вам складно, можливо, варто спочатку спробувати кампанію Ченця. Вона може допомогти вам зрозуміти гру і легше влитися в Rain World.
+If enabled, scavenger corpses in Artificer's campaign don't lose karma after each cycle|Якщо ввімкнено, трупи сміттярів у кампанії Техніка не втрачатимусь карму щоциклу.
+(Normally requires delivering pearls and finding broadcast tokens in the campaign maps)|(Зазвичай потребує здобування перлин та знаходження токенів передач у мапах кампаній)
+Know that this does not make you special - every living thing shares that same frustration.<LINE>From the microbes in the processing strata to me, who am, if you excuse me, godlike in comparison.|Знай, ти не особливий — все живе поділяє той самий відчай. Від мікробів<LINE>у обчислювальних пластах і до мене, який є, даруй, богоподібним у порівнянні.
+Look at me. The only thing I have to offer is my words.<LINE>If you come here, I must assume you want me to speak? So then would you PLEASE listen?<LINE>If not, you are welcome to leave me alone.|Поглянь на мене. Єдине, що я можу тобі запропонувати — мої слова.<LINE>Якщо ти приходиш сюди, то, гадаю, ти хочеш їх почути? Тоді можеш<LINE>БУДЬ ЛАСКА послухати? В іншому разі, можеш залишити мене в спокої.
+The bad news is that no definitive solution has been found. And every moment the equipment erodes to a new state of decay.<LINE>I can't help you collectively, or individually. I can't even help myself.|Погана новина в тому, що остаточного рішення досі не знайдено, і щомиті обладнання для його пошуку досягає дедалі більшого занепаду.<LINE>Я не можу допомогти вам ні разом, ні поодинці. Я навіть собі допомогти не можу.
+At the end of time none of this will matter I suppose, but it would be nice if you took another way out.<LINE>One free of... frolicking in my memory arrays. There is a perfectly good access shaft right here.|Мабуть, врешті-решт нічого з цього і не матиме значення, але було б непогано, якби ти скористався<LINE>іншим виходом. Тим, що не передбачав би твоїх... пустощів у моєму Відсіку Пам'яті. Ось тут є чудова шахта доступу.
+For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.<LINE>The mark I gave you will let you through.|Однак, у тебе є інший засіб. Старий шлях. Рушай на захід, повз Фермерські Масиви, а потім донизу, туди,<LINE>де розколюється земля, якомога глибше, де стародавні зводили свої храми й святкували свої кумедні ритуали.<LINE>З наданим мною знаком тебе пропустять.
+The good news first. In a way, I am what you are searching for. Me and my kind have as our<LINE>purpose to solve that very oscillating claustrophobia in the chests of you and countless others.<LINE>A strange charity - you the unknowing recipient, I the reluctant gift. The noble benefactors?<LINE>Gone.|Почну з хороших новин. У певному сенсі я те, чого ти шукав. Покликання мене, та мого роду —<LINE>подолати той мінливий жах, що оволодів тобою, як і безліччю інших. Дивна благодійність:<LINE>ти — несвідомий одержувач, а я — неохочий подарунок. Шляхетні благодійники?<LINE>Зникли.
+You must be very brave to have made it all the way here. But I'm sorry to say your journey here is in vain.|Певно, ти дуже сміливий, якщо зміг сюди дістатися. Але мені шкода казати, що твоя подорож — марна.
+It is good to have someone to talk to after all this time!<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...|Приємно мати з ким побалакати через стільки часу!<LINE>Сміттярі не такі вже й добрі слухачі. Проте іноді вони приносять мені деякі дрібнички...
+I'm still angry at you, but it is good to have someone to talk to after all this time.<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...|Я все ще зла на тебе, але приємно мати з ким побалакати після всього цього часу!<LINE>Сміттярі не такі вже й добрі слухачі. Проте іноді вони приносять мені деякі дрібнички...
+Even the scavengers that come here from time to time leave with nothing. But... I have told you that already, haven't I?|Навіть сміттярі, що іноді навідуються сюди, йдуть ні з чим. Але... я тобі вже це казала, хіба ні?
+I have had scavengers come by before. Scavengers!<LINE>And they left me alive!<LINE>But... I have told you that already, haven't I?|Раніше до мене навідувалися сміттярі. Сміттярі!<LINE>І вони залишили мене живою! Але... я тобі вже це казала, хіба ні?
+You must excuse me if I repeat myself. My memory is bad.<LINE>I used to have a pathetic five neurons... And then you ate one.<LINE>Maybe I've told you that before as well.|Прошу вибачення, якщо я повторююся. Моя пам'ять погана.<LINE>В мене було всього п'ять жалюгідних нейронів... А потім одного ти зжер.<LINE>Можливо, я й це вже тобі казала.
+Or actually I'm sure he would, but he has so many of these~<LINE>it doesn't do him any difference.<LINE>For me though, it does! Thank you, little creature!|Хоча, насправді я впевнена, що йому було б не все одно — але в нього їх стільки~<LINE>для нього це справді не має значення.<LINE>А для мене — має, і ще як! Дякую тобі, маленька істото!
+You come here, but you can't be respectful enough to listen to me.<LINE>Will you listen this time?|Ти приходиш сюди, але не можеш виявити мені повагу, дослухавши до кінця.<LINE>Чи дослухаєш ти цього разу?
